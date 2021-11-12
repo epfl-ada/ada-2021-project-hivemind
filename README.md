@@ -28,19 +28,19 @@
 
 <!-- TODO: A 150 word description of the project idea and goals. What’s the motivation behind your project? What story would you like to tell, and why? -->
 
-Every year, natural disasters happen and often take many lives. After such events, the pages of newspapers are full of quotes from people expressing regret for the unfortunate event. These events often remain in people's memory for a lifetime. What influences how long these events will be talked about years later? Perhaps the number of casualties, total damage induced, or the country of the disaster and its wealth. In this research project, our goal is to explore how much is said about the biggest disasters (such as earthquakes, storms, floods) years after they have occurred and what factors influence this. We will look for answers in the [Quotebank](https://github.com/epfl-dlab/Quotebank) 2008-2020 quotes on disasters taken from the [international disasters database](https://public.emdat.be/data) combined with world development indicators from the [World Data Bank](https://databank.worldbank.org/source/world-development-indicators). To simplify disaster quote detection, we will further look into classifying the quotes by whether they talk about a disaster or not.
+Every year, natural disasters happen and often take many lives. After such events, the pages of newspapers are full of quotes from people expressing regret for the unfortunate event. These events often remain in people's memory for a lifetime. What influences how long these events will be talked about years later? In this research project, our goal is to explore how much is said about the biggest disasters (such as earthquakes, storms, floods) years after they have occurred and what factors influence this. We will look for answers in the [Quotebank](https://github.com/epfl-dlab/Quotebank) 2008-2020 quotes on disasters taken from the [international disasters database](https://public.emdat.be/data) combined with world development indicators from the [World Data Bank](https://databank.worldbank.org/source/world-development-indicators). To simplify disaster quote detection, we will further look into classifying the quotes by whether they talk about a disaster or not.
 
 
 <h2 id="research-questions"> :electron: Research questions</h2>
 <!-- Research Questions: A list of research questions you would like to address during the project. -->
 
-We propose to answer two questions in this research project.
+We propose to explore two questions in this research project.
 
 First, how correctly will NLP models trained on disaster tweets like in [this kaggle challenge](https://www.kaggle.com/c/nlp-getting-started/overview) generalize to classifying disaster quotes in Quotebank? 
 
 Second, what factors influence how long a natural disaster will be talked about in Quotebank quotes from 2008 to 2020? The interesting factors include total deaths, total damage in dollars, country of disaster, wealth indicators of the country, etc.
 
-Given that a comprehensive analysis of these research questions might be challenging, we discard other related and interesting questions like "what is the sentiment towards different disasters and why" and "how does the country of the speaker affect which disasters he is talking about".
+<!-- Given that a comprehensive analysis of these research questions might be challenging, we discard other related and interesting questions like "what is the sentiment towards different disasters and why" and "how does the country of the speaker affect which disasters he is talking about". -->
 
 <!-- ADDITIONAL DATASETS -->
 <h2 id="additional-datasets"> :floppy_disk: Additional datasets</h2>
@@ -51,7 +51,7 @@ Besides loading and doing exploratory data analysis on [Quotebank](https://githu
 - [The international disasters database](https://public.emdat.be/data), loaded and analysed in [`disasters_eda.ipynb`](disasters_eda.ipynb)
 - [World Data Bank](https://databank.worldbank.org/source/world-development-indicators), loaded and analysed in [`wdi_eda.ipynb`](wdi_eda.ipynb)
 
-Besides these datasets, we might use public disaster tweets datasets like the one in [this kaggle challenge](https://www.kaggle.com/c/nlp-getting-started/overview) to use them for disaster quotes classification, if the models prove to be of desired success.
+Besides these datasets, we use [GDELT Geographic Lookup of Domains](https://blog.gdeltproject.org/mapping-the-media-a-geographic-lookup-of-gdelts-sources/) and might use public disaster tweets datasets like the one in [this kaggle challenge](https://www.kaggle.com/c/nlp-getting-started/overview) to use them for disaster quotes classification, if the models prove to be of desired success.
 
 <!-- ADDITIONAL DATASETS SPEAKER ATTRIBUTES -->
 <!-- <h3 id="additional-datasets-speaker-attributes">   Speaker attributes</h3>
@@ -68,7 +68,7 @@ Data source: [The international disasters database](https://public.emdat.be/data
 We use [the international disasters database](https://public.emdat.be/data) to introduce natural disasters of this century with their most important attributes.<!-- , as we want to find the connection between the attributes of a disaster and the length (or distribution) of the time these disasters are talked about in quotes. --> To enumerate the most important attributes introduced with this dataset, we get the disaster type, total deaths, total damage in dollars, country of disaster, the date, and the reconstruction cost.
 <!-- There are also some disaster-type specific attributes like the magnitude of an earthquake on a Richter scale. -->
 
-As noted on the dataset website, the data was compiled from various sources including UN, governmental and non-governmental agencies, insurance companies, research institutes, and press agencies (see Table 2). As there can be conflicting information and figures, CRED has established a method of ranking these sources according to their ability to provide trustworthy and complete data. In the majority of cases, a disaster will only be entered into EM-DAT if at least two sources report the disaster's occurrence in terms of deaths and/or affected persons.
+This dataset was compiled from various sources including UN, governmental and non-governmental agencies, insurance companies, research institutes, and press agencies. <!-- As there can be conflicting information and figures, CRED has established a method of ranking these sources according to their ability to provide trustworthy and complete data. --> In the majority of cases, a disaster will only be entered into EM-DAT if at least two sources report the disaster's occurrence in terms of deaths and/or affected persons.
 
 In the [`disasters_eda.ipynb`](disasters_eda.ipynb) notebook, we have loaded, pre-processed and cleaned, analyzed, and visualized the dataset. 
 
@@ -91,7 +91,7 @@ In the [`wdi_eda.ipynb`](wdi_eda.ipynb) notebook, we have loaded, pre-processed 
 
 Data source: https://blog.gdeltproject.org/mapping-the-media-a-geographic-lookup-of-gdelts-sources/
 
-The geographical location of newspapers could affect the citations contained in them. Although the quotes in the Quotebank dataset contain links to the article in which they were found, we cannot find out the true geographical location of the news source from the link itself. E.g. theguardian.com and nytimes.com both use .com top-level domain, but they are reporting events in different countries. That's why we decided to choose a GDELT dataset that associates a particular domain with the right country from which that news source comes. This dataset was created from the enormous GDELT dataset, which relied on the strong geographic bias inherent in journalism – the simple fact that news outlets cover events physically proximate to them far more often than they do events on the other side of the world.
+The geographical location of newspapers could affect the citations contained in them. Although the quotes in the Quotebank dataset contain links to the article in which they were found, we cannot find out the true geographical location of the news source from the link itself. E.g. theguardian.com and nytimes.com both use .com top-level domain, but they are reporting events in different countries. That's why we decided to choose a GDELT dataset that associates a particular domain with the right country from which that news source comes. This dataset was created from the enormous GDELT dataset and used the fact that news outlets cover events physically proximate to them far more often than they do events on the other side of the world.
 
 <!-- :paw_prints:-->
 <!-- FOLDER STRUCTURE -->
@@ -122,13 +122,23 @@ The geographical location of newspapers could affect the citations contained in 
 <!-- METHODS -->
 <h2 id="methods"> :mag: Methods</h2>
 
+<!-- <h3> Dask </h3> -->
 
+To handle the large Quotebank datset, we have set up a pipeline using Dask, a flexible parallel computing library for analytics. Dask scheduler dashboard during the run of a long task is shown in the image bellow.
 
 <img src="images/dask_scheduler_dashboard.jpeg" title="Dask scheduler dashboard" />
 
-In tackling the research question of analyzing how long natural disasters will be talked about, the crucial component is to classify whether a specific quote is talking about a specific disaster. We find it challenging to come up with a feasible method of doing so. So far we have considered the following two methods:
+<!-- <h3> Answering the research questions </h3> -->
+
+In tackling the research question of analyzing how long natural disasters will be talked about, the crucial component is to classify whether a specific quote is talking about a specific disaster. The method we propose to find whether a quote is about a certain disaster is to do simple text searching to match the expected words. These words might include some details about the place where the disaster happened. Depending on the scalability of the method, we would perform the analysis on a subset of the disasters. Assuming that a number of disasters happen in places that usually do not receive much media attention (like Fukushima in world news), we could for example select these disasters and then search for quotes that mention these places, hoping for a good precision.
+
+To evaluate the precision of the proposed method, we would hand-label whether a sample of, for example, 100 quotes that were detected by the method are true positives or false positives.
+
+To get a feeling about how this method would work and about its feasibility, we give a short case study of searching for quotes about the disaster with the biggest number of daeths - the Haiti earthquake in 2010. The two figures below show the frequency over time of quotes that contain haiti+earthquake (top figure) and haiti+earthquake+2010 (bottom figure). The details are in the [`quotes_eda.ipynb`](quotes_eda.ipynb) notebook.
 
 <img src="images/haiti_case_study.jpeg" title="Quotes containing haiti+earthquake, quotes containing haiti+earthquake+2010 " />
+
+We would also like to investigate how the models trained on disaster tweets datasets used for classifying natural disaster in the tweets will perform on the quotes from the Quotebank. To do so, we propose to train simple BERT based sentence encoding with a Logistic Regression Classifier.
 
 <!-- PROPOSED TIMELINE -->
 <h2 id="timeline"> :calendar: Proposed timeline</h2>
@@ -144,6 +154,6 @@ TODO:
 TODO: A list of internal milestones up until project Milestone 3.
 
 <!-- QUESTIONS FOR TAs -->
-<h2 id="questions-for-tas"> :question: Questions for TAs (optional)</h2>
+<!-- <h2 id="questions-for-tas"> :question: Questions for TAs (optional)</h2>
 
-Add here any questions you have for us related to the proposed project.
+Add here any questions you have for us related to the proposed project. -->
