@@ -51,7 +51,7 @@ Besides loading and doing exploratory data analysis on [Quotebank](https://githu
 - [The international disasters database](https://public.emdat.be/data), loaded and analysed in [`disasters_eda.ipynb`](disasters_eda.ipynb)
 - [World Data Bank](https://databank.worldbank.org/source/world-development-indicators), loaded and analysed in [`wdi_eda.ipynb`](wdi_eda.ipynb)
 
-Besides these datasets, we use [GDELT Geographic Lookup of Domains](https://blog.gdeltproject.org/mapping-the-media-a-geographic-lookup-of-gdelts-sources/) and might use public disaster tweets datasets like the one in [this kaggle challenge](https://www.kaggle.com/c/nlp-getting-started/overview) to use them for disaster quotes classification, if the models prove to be of desired success.
+<!-- Besides these datasets, we use [GDELT Geographic Lookup of Domains](https://blog.gdeltproject.org/mapping-the-media-a-geographic-lookup-of-gdelts-sources/) and might use public disaster tweets datasets like the one in [this kaggle challenge](https://www.kaggle.com/c/nlp-getting-started/overview) to use them for disaster quotes classification, if the models prove to be of desired success. -->
 
 <!-- ADDITIONAL DATASETS SPEAKER ATTRIBUTES -->
 <!-- <h3 id="additional-datasets-speaker-attributes">   Speaker attributes</h3>
