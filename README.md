@@ -34,7 +34,7 @@ Every year, natural disasters happen and often take many lives. After such event
 <h2 id="research-questions"> :electron: Research questions</h2>
 <!-- Research Questions: A list of research questions you would like to address during the project. -->
 
-We propose to answer two questions answer in this research project.
+We propose to answer two questions in this research project.
 
 First, how correctly will NLP models trained on disaster tweets like in [this kaggle challenge](https://www.kaggle.com/c/nlp-getting-started/overview) generalize to classifying disaster quotes in Quotebank? 
 
