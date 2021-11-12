@@ -27,9 +27,16 @@ One important factor in how much the people talk about a disaster might be the c
 
 Data source: https://databank.worldbank.org/source/world-development-indicators
 
+#### GDELT geographic lookup of domains
+
+The geographical location of newspapers could affect the citations contained in them. Although the quotes in the Quotebank dataset contain links to the article in which they were found, we cannot find out the true geographical location of the news source from the link itself. E.g. theguardian.com and nytimes.com both use .com TLD, but they are reporting events in different countries. That's why we decided to choose a GDELT dataset that associates a particular domain with the right country from which that news source comes. 
+
+Data source: https://blog.gdeltproject.org/mapping-the-media-a-geographic-lookup-of-gdelts-sources/
+
 ### Architecture of the repository
 
 TODO: I'm not sure if it is needed, but probably worth writing some words about what can be found in the different notebooks.
+
 
 ### Methods
 
