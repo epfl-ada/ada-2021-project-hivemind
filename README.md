@@ -65,7 +65,9 @@ Data source: Wikidata -->
 
 Data source: [The international disasters database](https://public.emdat.be/data)
 
-We use [the international disasters database](https://public.emdat.be/data) to introduce natural disasters of this century with their most important attributes.<!-- , as we want to find the connection between the attributes of a disaster and the length (or distribution) of the time these disasters are talked about in quotes. --> To enumerate the most important attributes introduced with this dataset, we get the disaster type, total deaths, total damage in dollars, country of disaster, the date, and the reconstruction cost.
+We use [the international disasters database](https://public.emdat.be/data) to introduce natural disasters of this century with their most important attributes.
+<!-- , as we want to find the connection between the attributes of a disaster and the length (or distribution) of the time these disasters are talked about in quotes. -->
+<!-- To enumerate the most important attributes introduced with this dataset, we get the disaster type, total deaths, total damage in dollars, country of disaster, the date, and the reconstruction cost. -->
 <!-- There are also some disaster-type specific attributes like the magnitude of an earthquake on a Richter scale. -->
 
 This dataset was compiled from various sources including UN, governmental and non-governmental agencies, insurance companies, research institutes, and press agencies. <!-- As there can be conflicting information and figures, CRED has established a method of ranking these sources according to their ability to provide trustworthy and complete data. --> In the majority of cases, a disaster will only be entered into EM-DAT if at least two sources report the disaster's occurrence in terms of deaths and/or affected persons.
@@ -81,7 +83,7 @@ Data source: https://databank.worldbank.org/source/world-development-indicators
 
 <!-- To supplement the disaster dataset, we have selected 55 different world development indicators from the [World Data Bank](https://databank.worldbank.org/source/world-development-indicators). We took the per-year data from the year 2000 to the year 2020 and for all available countries. Detailed indicator description is given in the metadata csv file `databank_wdi_metadata.csv`, including the source, unit of measure, periodicity, aggregation method, statistical concept and methodology, development relevance, and limitations. Raw data is saved in `databank_wdi_data.csv`, with the preprocessed dataset created in this notebook saved in `databank_wdi_data_clean.csv`. -->
 
-One important factor in how much people talk about a disaster might be the country and its attributes. In this dataset, the most important development indicators of the country can be found, for example GDP, population, fertility rate, and life expectancy at birth. Detailed indicator description is given in the metadata csv file `databank_wdi_metadata.csv`. We would like to observe whether there is a connection between these indicators and the length and distribution of time they talk about the disaster.
+One important factor in how much people talk about a disaster might be the country and its attributes. In this dataset, the most important development indicators of the country can be found, for example GDP, population, and fertility rate. Detailed per-indicator source and description is given in `databank_wdi_metadata.csv`. We would like to observe whether there is a connection between these indicators and the length and distribution of time they talk about the disaster.
 
 In the [`wdi_eda.ipynb`](wdi_eda.ipynb) notebook, we have loaded, pre-processed and cleaned, analyzed, and visualized the dataset.
 
