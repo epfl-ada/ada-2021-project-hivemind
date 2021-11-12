@@ -47,9 +47,9 @@ Given that a comprehensive analysis of these research questions might be challen
 
 <!-- TODO: List the additional dataset(s) you want to use (if any), and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you’ve read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible. -->
 
-Besides laoding and doing exploratory data analysis on [Quotebank](https://github.com/epfl-dlab/Quotebank) in [quotes_eda.ipynb](quotes_eda.ipynb), we will use two additional datasets:
-- [The international disasters database](https://public.emdat.be/data), loaded and analysed in [disasters_eda.ipynb](disasters_eda.ipynb)
-- [World Data Bank](https://databank.worldbank.org/source/world-development-indicators), loaded and analysed in [wdi_eda.ipynb](wdi_eda.ipynb)
+Besides loading and doing exploratory data analysis on [Quotebank](https://github.com/epfl-dlab/Quotebank) in [`quotes_eda.ipynb`](quotes_eda.ipynb), we will use two additional datasets:
+- [The international disasters database](https://public.emdat.be/data), loaded and analysed in [`disasters_eda.ipynb`](disasters_eda.ipynb)
+- [World Data Bank](https://databank.worldbank.org/source/world-development-indicators), loaded and analysed in [`wdi_eda.ipynb`](wdi_eda.ipynb)
 
 Besides these datasets, we might use public disaster tweets datasets like the one in [this kaggle challenge](https://www.kaggle.com/c/nlp-getting-started/overview) to use them for disaster quotes classification, if the models prove to be of desired success.
 
@@ -70,12 +70,12 @@ We use [the international disasters database](https://public.emdat.be/data) to i
 
 As noted on the dataset website, the data was compiled from various sources including UN, governmental and non-governmental agencies, insurance companies, research institutes, and press agencies (see Table 2). As there can be conflicting information and figures, CRED has established a method of ranking these sources according to their ability to provide trustworthy and complete data. In the majority of cases, a disaster will only be entered into EM-DAT if at least two sources report the disaster's occurrence in terms of deaths and/or affected persons.
 
-In the [disasters_eda.ipynb](disasters_eda.ipynb) notebook, we have loaded, pre-processed and cleaned, analyzed, and visualized the dataset. 
+In the [`disasters_eda.ipynb`](disasters_eda.ipynb) notebook, we have loaded, pre-processed and cleaned, analyzed, and visualized the dataset. 
 
 <img src="./images/num_disasters_per_country.png" title="Number of disasters per country (2008-2020)" />
 
 <!-- WORDL DEVELOPMENT INDICATORS -->
-<h3 id="additional-datasets-wdi"> 2. World development indicators</h2>
+<h3 id="additional-datasets-wdi"> 2. World Development Indicators</h2>
 
 Data source: https://databank.worldbank.org/source/world-development-indicators
 
@@ -83,11 +83,11 @@ Data source: https://databank.worldbank.org/source/world-development-indicators
 
 One important factor in how much people talk about a disaster might be the country and its attributes. In this dataset, the most important development indicators of the country can be found, for example GDP, population, fertility rate, and life expectancy at birth. Detailed indicator description is given in the metadata csv file `databank_wdi_metadata.csv`. We would like to observe whether there is a connection between these indicators and the length and distribution of time they talk about the disaster.
 
-In the [wdi_eda.ipynb](wdi_eda.ipynb) notebook, we have loaded, pre-processed and cleaned, analyzed, and visualized the dataset.
+In the [`wdi_eda.ipynb`](wdi_eda.ipynb) notebook, we have loaded, pre-processed and cleaned, analyzed, and visualized the dataset.
 
 
 <!-- WORLD DEVELOPMENT GDELT -->
-<h3 id="additional-datasets-gdelt"> 3. GDELT geographic lookup of domains</h2>
+<h3 id="additional-datasets-gdelt"> 3. GDELT Geographic Lookup of Domains</h2>
 
 Data source: https://blog.gdeltproject.org/mapping-the-media-a-geographic-lookup-of-gdelts-sources/
 
