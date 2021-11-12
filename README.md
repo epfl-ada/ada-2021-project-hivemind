@@ -1,4 +1,4 @@
-# Title
+# Natural disasters in quotes
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
@@ -145,15 +145,32 @@ We would also like to investigate how the models trained on disaster tweets data
 <!-- PROPOSED TIMELINE -->
 <h2 id="timeline"> :calendar: Proposed timeline</h2>
 
-TODO: 
-1. Project idea clarification
-2. Additional data collection and processing
-3. Data statistical analysis
+
+Nov 26 (HW2 Deadline): Quote - disaster matching with simple text search and manual labeling of quotes
+
+Dec 3: Disaster classification using pre-trained NLP models (an attempt at NLP transfer learning) and exploration of media influencing factors (total deaths, total damage in dollars, country of disaster etc.)
+
+Dec 10:  Evaluation and visualization of the outcomes, implementation of potential improvements and notebook finalization
+
+Dec 15: Preparation of the data storyline and the website
+
+Dec 17: Proofreading, minor adjustments and submission (Everyone)
+
 
 <!-- PROPOSED TIMELINE -->
 <h2 id="organization"> :dart: Organization within the team</h2>
 
-TODO: A list of internal milestones up until project Milestone 3.
+Batuhan - 
+Quote-disaster matching, NLP model training, preparation and deployment of the website
+
+Frano -
+Labeling of the quotes, outlining and enriching the data storyline
+
+Hilda -
+Exploration of media influencing factors, valuation and visualization of the outcomes. 
+
+Lovro -
+Labeling of the quotes, quote-disaster matching, NLP model training
 
 <!-- QUESTIONS FOR TAs -->
 <!-- <h2 id="questions-for-tas"> :question: Questions for TAs (optional)</h2>
