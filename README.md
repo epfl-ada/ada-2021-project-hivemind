@@ -33,10 +33,31 @@ The geographical location of newspapers could affect the citations contained in 
 
 Data source: https://blog.gdeltproject.org/mapping-the-media-a-geographic-lookup-of-gdelts-sources/
 
-### Architecture of the repository
+<!-- :paw_prints:-->
+<!-- FOLDER STRUCTURE -->
+<h2 id="folder-structure"> :cactus: Folder Structure</h2>
 
-TODO: I'm not sure if it is needed, but probably worth writing some words about what can be found in the different notebooks.
-
+    .
+    │
+    ├── datasets
+    │   ├── quotebank
+    │   │   └── quotes-{year}.parquet
+    │   │
+    │   ├── gdelt_domains_by_country
+    │   │   ├── gdeltdomainsbycountry_may2018.txt
+    │   │   └── FIPS_country.txt
+    │   │
+    │   ├── emdat
+    │   │    └── emdat_public_2021_11_06.csv
+    │   │
+    │   └── wdi
+    │       ├── databank_wdi_data.csv
+    │       └── databank_wdi_metadata.csv
+    │
+    ├── quotes_eda.ipynb
+    ├── wdi_eda.ipynb  
+    ├── disasters_eda.ipynb    
+ 
 
 ### Methods
 
