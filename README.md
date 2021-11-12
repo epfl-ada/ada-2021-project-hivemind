@@ -2,16 +2,16 @@
 
 ### Abstract
 
-A 150 word description of the project idea and goals. What’s the motivation behind your project? What story would you like to tell, and why?
+TODO: A 150 word description of the project idea and goals. What’s the motivation behind your project? What story would you like to tell, and why?
 Research Questions: A list of research questions you would like to address during the project.
 
 ### Additional datasets
 
-List the additional dataset(s) you want to use (if any), and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you’ve read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible.
+TODO: List the additional dataset(s) you want to use (if any), and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you’ve read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible.
 
 #### Speaker attributes
 
-???
+This dataset helps us to find connection between the speaker and the quotation when it is about a disaster. We can observe if the speaker is from the same country as the place of the disaster, or she/he is a scientist, expert talking about the event.
 
 Data source: Wikidata
 
@@ -27,17 +27,24 @@ One important factor in how much the people talk about a disaster might be the c
 
 Data source: https://databank.worldbank.org/source/world-development-indicators
 
+### Architecture of the repository
+
+TODO: I'm not sure if it is needed, but probably worth writing some words about what can be found in the different notebooks.
+
 ### Methods
+
+TODO: 
 
 ### Proposed timeline
 
+TODO: 
 1. Project idea clarification
 2. Additional data collection and processing
 3. Data statistical analysis
 
 ### Organization within the team
 
-A list of internal milestones up until project Milestone 3.
+TODO: A list of internal milestones up until project Milestone 3.
 
 ### Questions for TAs (optional)
 
