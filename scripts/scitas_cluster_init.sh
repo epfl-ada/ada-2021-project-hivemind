@@ -32,3 +32,5 @@ python -c 'import numpy as np; import pandas as pd; import tensorflow as tf; fro
 
 ## If you want to start jupter, do it
 # jupyter notebook --no-browser --port=8080
+
+set +e
