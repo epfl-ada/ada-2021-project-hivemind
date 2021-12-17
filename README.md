@@ -116,7 +116,8 @@ Detailed description:
 - [`quotes_eda.ipynb`](quotes_eda.ipynb): this includes exploratory data analysis on the quotebank
 - [`wdi_eda.ipynb`](wdi_eda.ipynb): this notebook is used to examine the Word Development Indicators dataset
 - [`disasters_eda.ipynb`](disasters_eda.ipynb): this is also for examination of the additional dataset, this time the Disaster dataset is in the focus
-- [`media_influencing_factors.ipynb`](media_influencing_factors.ipynb): this notebook is for putting all things together, merging our dataset and analysing the connections.
+- [`media_influencing_factors.ipynb`](media_influencing_factors.ipynb): this notebook is for putting all things together, merging our dataset and analysing the connections
+- [`earthquake_quotebank_extraction.ipynb`](earthquake_quotebank_extraction.ipynb): this notebook consists of the filtering of earthquake related quotes.
  
 <!-- METHODS -->
 <h2 id="methods"> :mag: Methods</h2>
