@@ -17,6 +17,7 @@
         </ul>  
     </li>
     <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
+    <li><a href="#methods"> ➤ Methods</a></li>
     <!--<li><a href="#timeline"> ➤ Proposed timeline</a></li>-->
     <li><a href="#organization"> ➤ Organization within the team</a></li>
     <!--<li><a href="#questions-for-tas"> ➤ Questions for TAs</a></li>-->
