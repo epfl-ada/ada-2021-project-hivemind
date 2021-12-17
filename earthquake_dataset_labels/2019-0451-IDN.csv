@@ -1,0 +1,20 @@
+,quoteID,quotation,speaker,qids,date,numOccurrences,urls,phase,speaker_prob,url_countries
+167776,2010-01-17-032876,"i've seen the light, nick catrambone. i'm voting in the golden bears at # 15. but if they don't defeat fellow unbeaten east stroudsburg on wednesday night, they're back behind the penn quakers.",dan mozes,Q5214067,2010-01-17 17:35:25,2,"['http://philly.com/philly/blogs/pretzel/?altcast_code=20eec7f535'
+ 'http://philly.com/philly/blogs/pretzel/?altcast_code=b166066722']",A,0.5991,['US']
+111395,2010-03-14-051756,"the quake was felt in ambon city but we haven't received any report of damage,",jerry norton,Q6184183,2010-03-14 04:08:25,8,"['http://thestar.com.my/news/story.asp?file=/2010/3/14/worldupdates/2010-03-14T090116Z_01_NOOTR_RTRMDNC_0_-468953-2&sec=Worldupdates'
+ 'http://au.news.yahoo.com/a/-/world/6930734/strong-quake-hits-off-indonesia-no-major-tsunami/'
+ 'http://publicbroadcasting.net/wkyu/news.newsmain/article/0/0/1623455/World/Strong.quake.hits.off.Indonesia..no.major.tsunami'
+ 'http://publicbroadcasting.net/wuky/news.newsmain/article/0/0/1623455/World/Strong.quake.hits.off.Indonesia..no.major.tsunami'
+ 'http://publicbroadcasting.net/wabe/news.newsmain/article/0/0/1623455/World/Strong.quake.hits.off.Indonesia..no.major.tsunami'
+ 'http://worldbulletin.net/news_detail.php?id=55452'
+ 'http://cnews.canoe.ca/CNEWS/World/2010/03/14/13222726-reuters.html?cid=rssnewsworld'
+ 'http://theglobeandmail.com/news/world/strong-64-magnitude-quake-rocks-indonesia/article1499922/?cmpid=rss1']",A,0.3896,['MY' 'CA' 'US' 'TU']
+155256,2012-10-12-077324,"there is no tsunami potential. the quake was felt in towns of nabire, wamena in papua and the city of ambon in maluku islands,",None,,2012-10-12 03:29:35,6,"['http://thestandard.com.hk/breaking_news_detail.asp?id=26210'
+ 'http://mysinchew.com/node/78623'
+ 'http://my.news.yahoo.com/6-7-magnitude-quake-strikes-off-indonesias-papua-040209041.html'
+ 'http://au.news.yahoo.com/world/a/-/world/15105366/6-7-magnitude-quake-strikes-off-indonesias-papua/'
+ 'http://naharnet.com/stories/en/56784-6-7-magnitude-quake-strikes-off-indonesia-s-papua'
+ 'http://emirates247.com/news/6-7-magnitude-quake-strikes-off-indonesia-2012-10-12-1.478781']",C,0.507,['US' 'MY' 'SY' 'AE' 'HK']
+32095,2015-12-09-102200,"The quake was felt strongly in Ambon and Banda, but until now there is no report of damage or casualties,",None,,2015-12-09 12:23:00,1,['http://post.jagran.com/69-magnitude-quake-hits-off-indonesia-1449663823'],E,0.9382,['IN']
+63493,2017-05-16-092274,"Steve Cambone is one of the most respected and knowledgeable leaders in cybersecurity and I cannot underscore enough the magnitude of expertise he brings to the system,",John Sharp,Multiple,2017-05-16 19:15:47,1,['http://engineering.tamu.edu/news/2017/05/16/texas-am-professor-of-practice-and-former-undersecretary-of-defense-for-intelligence-to-lead-texas-am-system-cybersecurity-initiative'],E,0.7924,['US']
+33732,2019-10-11-050639,"It could have been someone who objected to Wiranto's policy on Papua or his statement on the Ambon earthquake. We must bring the perpetrators to justice but we should be careful about labelling them as terrorists,",None,,2019-10-11 06:03:19,1,['http://www.afr.com/world/asia/indonesia-tries-to-downplay-stabbing-of-security-minister-20191011-p52zwc'],E,0.684,['AS']

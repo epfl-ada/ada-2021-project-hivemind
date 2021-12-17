@@ -1,0 +1,4 @@
+,quoteID,quotation,speaker,qids,date,numOccurrences,urls,phase,speaker_prob,url_countries
+96106,2017-12-03-055764,"The last major quake on the Peru-Chile Trench was the Illapel earthquake in 2015, which was a 8.3-magnitude. In fact, the largest earthquake ever recorded on Earth occurred on this trench in 1960, and clocked in at 9.5-magnitude,",None,,2017-12-03 21:42:21,3,"['http://www.stuff.co.nz/national/nz-earthquake/99368486/Kaik-ura-earthquake-Hikurangi-subduction-zone-one-of-worlds-largest'
+ 'http://home.nzcity.co.nz/nl.aspx?4011275'
+ 'http://www.stuff.co.nz/marlborough-express/99368486/Hikurangi-subduction-zone-part-of-a-huge-3500km-long-system']",E,0.9393,['NZ']

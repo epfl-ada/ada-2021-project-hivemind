@@ -1,0 +1,7 @@
+,quoteID,quotation,speaker,qids,date,numOccurrences,urls,phase,speaker_prob,url_countries
+161998,2009-04-17-098297,"we extend our condolences to the victims of the earthquake in nangarhar province in afghanistan, especially to the injured and the families of those who have lost their lives,",robert wood,Multiple,2009-04-17 17:00:23,4,"['http://us.rd.yahoo.com/dailynews/rss/asia/*http://news.yahoo.com/s/afp/20090417/pl_afp/afghanistanquakeusaid'
+ 'http://likadiplomat2007.wordpress.com/2009/04/18/22-dead-in-earthquakes-in-afghanistan-royal-umbras-special/'
+ 'http://likadiplomat2007.wordpress.com/2009/04/18/nuke-on-ny-state-cis-war-since-of-2006/'
+ 'http://us.cnn.com/2009/WORLD/asiapcf/04/17/afghanistan.quake/index.html']",A,0.6205,['US']
+97036,2013-04-24-089068,"up to now we have recovered 70 people who have been wounded in the earthquake, 35 of those wounded are from different districts of nangarhar. we are keeping them here for treatment.",tamerlan tsarnaev,Q11836274,2013-04-24 16:31:00,2,"['http://mf.feeds.reuters.com/c/871/f/605700/s/2b1f36f4/l/0Luk0Breuters0N0Cvideo0C20A130C0A40C240Cafghan0Equake0Ekills0Eat0Eleast0Efour0Ewounds0DvideoId0F2424437750GfeedType0FVideoRSS0GfeedName0FLatestVideosUK0GvideoChannel0F260A3/story01.htm'
+ 'http://reuters.com/video/2013/04/24/afghan-quake-kills-at-least-four-wounds?videoId=242443775&feedType=VideoRSS&feedName=WorldNews&videoChannel=117760']",C,0.6142,['US']
