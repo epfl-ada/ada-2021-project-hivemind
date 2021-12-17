@@ -17,7 +17,7 @@
         </ul>  
     </li>
     <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
-    <li><a href="#timeline"> ➤ Proposed timeline</a></li>
+    <!--<li><a href="#timeline"> ➤ Proposed timeline</a></li>-->
     <li><a href="#organization"> ➤ Organization within the team</a></li>
     <!--<li><a href="#questions-for-tas"> ➤ Questions for TAs</a></li>-->
   </ol>
@@ -141,10 +141,10 @@ To get a feeling about how this method would work and about its feasibility, we 
 We would also like to investigate how the models trained on disaster tweets datasets used for classifying natural disaster in the tweets will perform on the quotes from the Quotebank. To do so, we propose to train simple BERT based sentence encoding with a Logistic Regression Classifier.
 
 <!-- PROPOSED TIMELINE -->
-<h2 id="timeline"> :calendar: Proposed timeline</h2>
+<!--<h2 id="timeline"> :calendar: Proposed timeline</h2>
 
 
-<!--Nov 26 (HW2 Deadline): Quote - disaster matching with simple text search and manual labeling of quotes
+Nov 26 (HW2 Deadline): Quote - disaster matching with simple text search and manual labeling of quotes
 
 Dec 3: Disaster classification using pre-trained NLP models (an attempt at NLP transfer learning) and exploration of media influencing factors (total deaths, total damage in dollars, country of disaster etc.)
 
