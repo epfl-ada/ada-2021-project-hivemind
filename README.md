@@ -28,7 +28,7 @@
 <!-- ABSTRACT -->
 <h2 id="abstract"> :pencil: Abstract</h2>
 
-Every year, natural disasters happen and often take many lives. After such events, the pages of newspapers are full of quotes from people expressing regret for the unfortunate event. These events often remain in people's memory for a lifetime. What influences how long these events will be talked about? In this research project, our goal is to detect whether a quote is about these tragedic events. As a result of this, we explore how much is said about the biggest earthquakes after they have occurred and what factors influence this. We will look for answers in the [Quotebank](https://github.com/epfl-dlab/Quotebank) 2008-2020 quotes. 
+Every year, natural disasters happen and often take many lives. After such events, the pages of newspapers are full of quotes from people expressing regret for the unfortunate event. These events often remain in people's memory for a lifetime. What influences how long these events will be talked about? In this research project, our goal is to detect whether a quote is about these tragedic events. As a result of this, we explore how much is said about the biggest earthquakes after they have occurred and what factors influence this. We will look for answers in the [Quotebank](https://github.com/epfl-dlab/Quotebank) 2008-2020 quotes. <!-- on disasters. taken from the [international disasters database](https://public.emdat.be/data) combined with world development indicators from the [World Data Bank](https://databank.worldbank.org/source/world-development-indicators). -->
 
 
 <h2 id="research-questions"> :electron: Research questions</h2>
@@ -38,10 +38,7 @@ We proposed to explore two questions in this research project.
 
 First, how correctly will NLP models trained on disaster tweets like in [this kaggle challenge](https://www.kaggle.com/c/nlp-getting-started/overview) generalize to classifying disaster quotes in Quotebank? This question is important in respect of robustness analysis of models and their transfer learning capabilities.
 
-Second, what factors influence how long a earthquake will be talked about in Quotebank quotes from 2008 to 2020? The interesting factors include total deaths, total damage in dollars, country of disaster, wealth indicators of the country, etc. 
-<!-- So, we analyse this question from the point of the disaster specific traits of the event, and from the location of the event. -->
-
-<!-- There are various other research question related to this that are interesting and worth further research, like "what is the sentiment towards different disasters and why" and "how does the country of the speaker affect which disasters he is talking about". -->
+Second, what factors influence how long a earthquake will be talked about in Quotebank quotes from 2008 to 2020? The interesting factors can include total deaths, total damage in dollars, country of disaster, wealth indicators of the country, etc. So, we analyse this question from the point of the disaster specific traits of the event, and from the location of the event.
 
 ## You can find the description of main results on our website: [adahivemind.github.io](https://adahivemind.github.io/).
 
@@ -49,7 +46,6 @@ Second, what factors influence how long a earthquake will be talked about in Quo
 
 <!-- ADDITIONAL DATASETS -->
 <h2 id="additional-datasets"> :floppy_disk: Additional datasets</h2>
-
 
 Besides loading and doing exploratory data analysis on [Quotebank](https://github.com/epfl-dlab/Quotebank) in [`quotes_eda.ipynb`](quotes_eda.ipynb), we used additional datasets. 
 <!-- 
@@ -70,7 +66,7 @@ We use [the international disasters database](https://public.emdat.be/data) to i
 
 This dataset was compiled from various sources including UN, governmental and non-governmental agencies, insurance companies, research institutes, and press agencies. <!-- As there can be conflicting information and figures, CRED has established a method of ranking these sources according to their ability to provide trustworthy and complete data. --> In the majority of cases, a disaster will only be entered into EM-DAT if at least two sources report the disaster's occurrence in terms of deaths and/or affected persons.
 
-In the [`disasters_eda.ipynb`](disasters_eda.ipynb) notebook, we have loaded, pre-processed and cleaned, analyzed, and visualized the dataset. 
+<!--In the [`disasters_eda.ipynb`](disasters_eda.ipynb) notebook, we have loaded, pre-processed and cleaned, analyzed, and visualized the dataset.-->
 
 <img src="./images/num_disasters_per_country.png" title="Number of disasters per country (2008-2020)" />
 
@@ -83,7 +79,7 @@ Data source: https://databank.worldbank.org/source/world-development-indicators
 
 One important factor in how much people talk about a disaster might be the country and its attributes. In this dataset, the most important development indicators of the country can be found, for example GDP, population, and fertility rate. Detailed per-indicator source and description is given in `databank_wdi_metadata.csv`. We would like to observe whether there is a connection between these indicators and the length and distribution of time they talk about the disaster.
 
-In the [`wdi_eda.ipynb`](wdi_eda.ipynb) notebook, we have loaded, pre-processed and cleaned, analyzed, and visualized the dataset.
+<!--In the [`wdi_eda.ipynb`](wdi_eda.ipynb) notebook, we have loaded, pre-processed and cleaned, analyzed, and visualized the dataset.-->
 
 
 <!-- WORLD DEVELOPMENT GDELT -->
@@ -121,11 +117,11 @@ In this dataset we have a collection of tweets about natural disasters and rando
     │       ├── databank_wdi_data.csv
     │       └── databank_wdi_metadata.csv
     │
-    ├── quotes_eda.ipynb
-    ├── wdi_eda.ipynb  
-    ├── earthquake_quotebank_extraction.ipynb 
-    ├── media_influencing_factors.ipynb.ipynb  
-    └── disasters_eda.ipynb
+    ├── quotes_eda.ipynb                                
+    ├── wdi_eda.ipynb                                   
+    ├── earthquake_quotebank_extraction.ipynb           
+    ├── media_influencing_factors.ipynb.ipynb           
+    └── disasters_eda.ipynb                             
     
     
 Detailed description: 
@@ -146,7 +142,7 @@ To handle the large Quotebank dataset, we have set up a pipeline using Dask, a f
 
 <!-- <h3> Answering the research questions </h3> -->
 
-In tackling the research questions, the crucial component was to classify whether a specific quote is talking about a disasters or a specific events. The method we proposed to find whether a quote is about a certain disaster is to do simple text searching to match the expected words. These words might include some details about the place where the disaster happened. <!--Depending on the scalability of the method, we would perform the analysis on a subset of the disasters. Assuming that a number of disasters happen in places that usually do not receive much media attention (like Fukushima in world news), we could for example select these disasters and then search for quotes that mention these places, hoping for a good precision.-->
+In tackling the research questions, the crucial component was to classify whether a specific quote is talking about a disasters or a specific event. The method we proposed to find whether a quote is about a certain disaster is to do simple text searching to match the expected words. These words might include some details about the place where the disaster happened. <!--Depending on the scalability of the method, we would perform the analysis on a subset of the disasters. Assuming that a number of disasters happen in places that usually do not receive much media attention (like Fukushima in world news), we could for example select these disasters and then search for quotes that mention these places, hoping for a good precision.-->
 
 <!--To evaluate the precision of the proposed methods, we hand-labeled whether a sample of, for example, 100 quotes that were detected by the method are true positives or false positives.-->
 
@@ -154,7 +150,7 @@ In overall, we experienced that the model works the best with the event name and
 
 <img src="images/haiti_case_study.jpeg" title="Quotes containing haiti+earthquake, quotes containing haiti+earthquake+2010 " />
 
-We would also wanted to investigate how the models trained on disaster tweets datasets used for classifying natural disaster in the tweets will perform on the quotes from the Quotebank. To do so, we proposed to train simple BERT based sentence encoding with a Logistic Regression Classifier.
+We also wanted to investigate how the models trained on disaster tweets datasets used for classifying natural disaster in the tweets will perform on the quotes from the Quotebank. To do so, we proposed to train simple BERT based sentence encoding with a Logistic Regression Classifier.
 
 <!-- PROPOSED TIMELINE -->
 <!--<h2 id="timeline"> :calendar: Proposed timeline</h2>
