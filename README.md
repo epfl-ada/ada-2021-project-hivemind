@@ -1,4 +1,4 @@
-# Natural disasters in quotes
+# NATURAL DISASTERS IN QUOTES [[Data Story]](https://adahivemind.github.io/)
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
