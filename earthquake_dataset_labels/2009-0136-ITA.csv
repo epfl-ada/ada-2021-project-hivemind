@@ -1,0 +1,429 @@
+,quoteID,quotation,speaker,qids,date,numOccurrences,urls,phase,speaker_prob,url_countries
+209035,2009-04-06-039462,"it was with great sadness that i learned of the tragic earthquake overnight at l'aquila, causing numerous victims,",jose manuel barroso,Q15849,2009-04-06 14:08:17,2,"['http://abc.net.au/news/stories/2009/04/06/2536574.htm?section=justin'
+ 'http://eubusiness.com/news-eu/1239016645.05']",A,0.2864,['GR' 'AS']
+90671,2009-07-07-066375,there would have to be an earthquake of a strength that has never been seen in l'aquila.,guido bertolaso,Q3119409,2009-07-07 11:04:36,31,"['http://ktla.com/news/nationworld/sns-ap-g8-summit-security,0,1679131.story'
+ 'http://blog.taragana.com/n/italy-deploys-thousands-of-policemen-for-g8-summit-readies-evacuation-plan-in-case-of-quake-101655/'
+ 'http://dailypress.com/news/world/sns-ap-g8-summit-security,0,6716076.story'
+ 'http://fox59.com/news/nationworld/sns-ap-g8-summit-security,0,3045039.story'
+ 'http://kentucky.com/524/story/854933.html'
+ 'http://statesman.com/news/content/shared-gen/ap/Europe/G8_Summit_Security.html'
+ 'http://ajc.com/services/content/shared-gen/ap/Europe/G8_Summit_Security.html?cxtype=rss&cxsvc=1&cxcat=0'
+ 'http://brandonsun.com/story.php?story_id=146755'
+ 'http://salon.com/wires/ap/world/2009/07/07/D999IL6G1_g8_summit_security/index.html?source=rss&aim=wires'
+ 'http://q13fox.com/news/nationworld/sns-ap-g8-summit-security,0,4069465.story'
+ 'http://heraldonline.com/wire/world/story/1456150.html'
+ 'http://columbian.com/article/20090707/API/907070636'
+ 'http://kansascity.com/451/story/1309974.html'
+ 'http://ctv.ca/servlet/ArticleNews/story/CTVNews/20090707/g8_italy_090707/20090707?hub=World&s_name='
+ 'http://dailypress.com/news/national/sns-ap-g8-summit-security,0,962787.story'
+ 'http://cbsnews.com/stories/2009/07/07/ap/europe/main5138955.shtml'
+ 'http://seattlepi.com/national/1103ap_g8_summit_security.html?source=rss'
+ 'http://kdwn.com/index.php?page=2&section=WORLD_NEWS&title=Italy_readies_evacuation_plan_for_G8'
+ 'http://boston.com/news/world/europe/articles/2009/07/07/italy_readies_evacuation_plan_for_g8?rss_id=Boston.com+--+Latest+news'
+ 'http://startribune.com/world/50129332.html'
+ 'http://bismarcktribune.com/articles/2009/07/07/ap/international/g8_summit_security.txt'
+ 'http://cbsnews.com/stories/2009/07/07/ap/world/main5139272.shtml'
+ 'http://blog.taragana.com/n/italy-deploys-thousands-of-police-for-g8-summit-readies-evacuation-plan-in-case-of-quake-101973/'
+ 'http://cnews.canoe.ca/CNEWS/World/2009/07/07/10048391-ap.html'
+ 'http://breitbart.com/article.php?id=D999MH9G0&show_article=1'
+ 'http://wbt.com/news/details.cfm?ap_id=D999MH9G0'
+ 'http://kdwn.com/index.php?page=2&section=WORLD_NEWS&title=Italy_readies_quake_plan_for_G8'
+ 'http://foxnews.com/story/0,2933,530379,00.html'
+ 'http://post-gazette.com/pg/09189/982461-82.stm?cmpid=news.xml'
+ 'http://philly.com/r?19=961&43=165776&44=50206072&32=3796&7=195377&40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fnews%2Fnation_world%2F20090708_Quake_evacuation_plan_is_part_of_massive_G-8_security.html']",A,0.2685,['IN' 'US' 'CA']
+28938,2009-04-08-093404,"when the earthquake hit, i was staying with my fiancé in a different town, 80 kilometers away from l'aquila. even there the whole bed was shaking and i woke up. i am a member of the city's civil defense so i drove back to l'aquila to get involved in the rescue. later, i visited my home and saw that the ceiling in my bedroom had collapsed.",francesco de angelis,Multiple,2009-04-08 19:42:24,1,['http://pubs.acs.org/cen/news/87/i15/8715notw3.html'],A,0.3876,['US']
+9545,2009-04-18-053784,"we do know that some earthquakes, including the l'aquila event, have foreshocks, but we can't sound alarm bells every time little earthquakes happen because the overwhelming majority -- 95 percent or so -- will not indicate a coming major quake,",rick sanchez,Q6091403,2009-04-18 08:06:35,1,['http://ajr.org/Article.asp?id=4751'],A,0.3884,['US']
+17987,2009-04-06-068877,"the tremors being felt by the population are part of a typical sequence... [ which is ] absolutely normal in a seismic area like the one around l'aquila,",None,,2009-04-06 11:52:02,35,"['http://thestar.com/News/World/article/614310'
+ 'http://mobile.reuters.com/mobile/m/FullArticle/CTOP/ntopNews_uUSTRE5352AH20090406?src=RSS-TOP'
+ 'http://olympics.thestar.com/2008/article/614310'
+ 'http://stuff.co.nz/world/2319091/Scientist-muzzled-for-Italy-quake-warnings'
+ 'http://in.reuters.com/articlePrint?articleId=INIndia-38908220090406'
+ 'http://uk.news.yahoo.com/22/20090406/tpl-uk-italy-quake-warning-43a8d4f.html'
+ 'http://thelede.blogs.nytimes.com/2009/04/06/earthquake-warning-was-removed-from-internet/index.html'
+ 'http://stocks.us.reuters.com/article/scienceNews/idUSTRE53543420090406'
+ 'http://tvnz.co.nz/world-news/scientist-predicted-quake-muzzled-2623262'
+ 'http://kyivpost.com/world/39038'
+ 'http://news24.com/News24/World/News/0,,2-10-1462_2497632,00.html'
+ 'http://uk.news.yahoo.com/22/20090406/tsc-uk-italy-quake-warning-011ccfa.html'
+ 'http://cbsnews.com/stories/2009/04/06/world/main4922878.shtml?source=RSSattr=SciTech_4922878'
+ 'http://news.scotsman.com/world/Scientist-reported-to-police-for.5147209.jp'
+ 'http://msnbc.msn.com/id/30076197/'
+ 'http://nationalpost.com/nationalpost/story.html?id=1470593'
+ 'http://thescotsman.scotsman.com/latestnews/Scientist-reported-to-police-for.5147209.jp'
+ 'http://news.scotsman.com/latestnews/Italian-earthquake-Scientist-reported-to.5147209.jp'
+ 'http://register.thestar.com/News/World/article/614827'
+ 'http://nationalpost.com/rss/story.html?id=1470593'
+ 'http://boston.com/news/world/europe/articles/2009/04/07/italy_muzzled_scientist_for_spreading_alarm?p1=Well_MostPop_Emailed6'
+ 'http://warofillusions.wordpress.com/2009/04/07/italian-geophysicist-who-predicted-earthquake-was-told-to-take-findings-off-the-internet-by-government/'
+ 'http://dailytech.com/article.aspx?newsid=14777'
+ 'http://redorbit.com/news/science/1667414/experts_deny_scientists_earthquake_prediction_claim/index.html'
+ 'http://ahrcanum.wordpress.com/2009/04/08/italy-earthquake-warnings-by-giampaolo-guiliani-dismissed/'
+ 'http://gulf-times.com/site/topics/article.asp?cu_no=2&item_no=283127&version=1&template_id=39&parent_id=21'
+ 'http://abc.net.au/news/stories/2009/04/07/2537047.htm?section=justin'
+ 'http://brisbanetimes.com.au/world/panic-monger-who-predicted-earthquake-wants-apology-20090407-9whe.html'
+ 'http://news.scotsman.com/12007/Italian-earthquake-Scientist-reported-to.5147209.jp'
+ 'http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=163378673&blogId=484216458'
+ 'http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=87544933&blogId=484197907'
+ 'http://uk.news.yahoo.com/4/20090406/twl-scientist-gagged-over-quake-warning-41f21e0_1.html'
+ 'http://heloise8.wordpress.com/2009/04/'
+ 'http://heloise8.wordpress.com/2009/04/06/']",A,0.3179,['NZ' 'UP' 'UK' 'SF' 'CA' 'US' 'QA' 'AS']
+96588,2009-07-08-075702,"to cause problems, there would need to be an earthquake that has never before been recorded in l'aquila's history,",guido bertolaso,Q3119409,2009-07-08 07:10:10,3,"['http://msnbc.msn.com/id/31791771/ns/world_news-washington_post/'
+ 'http://washingtonpost.com/wp-dyn/content/article/2009/07/08/AR2009070801237.html?hpid=topnews'
+ 'http://washingtonpost.com/wp-dyn/content/article/2009/07/07/AR2009070702522.html?referrer=emailarticle']",A,0.5906,['US']
+131998,2009-04-10-054489,"let us pray for all those who feel sorrow, above all for those suffering in the quake-stricken area of l'aquila,",pope benedict xvi,Q2494,2009-04-10 21:42:08,31,"['http://salon.com/wires/ap/world/2009/04/10/D97FQN400_eu_vatican_good_friday/index.html'
+ 'http://npr.org/templates/story/story.php?storyId=102969532'
+ 'http://startribune.com/world/42810697.html?elr=KArksLckD8EQDUoaEyqyP4O:DW3ckUiD3aPc:_Yyc:aUUsZ'
+ 'http://philly.com/philly/wires/ap/news/world/20090410_ap_popepresidesoverwayofthecrossprocession.html'
+ 'http://huffingtonpost.com/huff-wires/20090410/eu-vatican-good-friday'
+ 'http://breitbart.com/article.php?id=D97FRIMO0&show_article=1'
+ 'http://jg-tc.com/articles/2009/04/10/ap/international/d97frimo0.txt'
+ 'http://philly.com/philly/hp/news_update/20090410_ap_popepresidesoverwayofthecrossprocession.html'
+ 'http://magicvalley.com/articles/2009/04/10/ap/international/d97frimo0.txt'
+ 'http://muscatinejournal.com/articles/2009/04/10/ap/headlines/d97frimo0.txt'
+ 'http://santamariatimes.com/articles/2009/04/10/ap/international/d97frimo0.txt'
+ 'http://foxnews.com/story/0,2933,514375,00.html'
+ 'http://bostonherald.com/news/international/general/view.bg?articleid=1164863&srvc=rss'
+ 'http://breakingnews.nypost.com/dynamic/stories/E/EU_VATICAN_GOOD_FRIDAY?SITE=NYNYP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2009-04-10-14-38-02'
+ 'http://newsday.com/news/nationworld/nation/ny-bc-eu--vatican-goodfrida0410apr10,0,4719873.story'
+ 'http://chippewa.com/articles/2009/04/10/ap/headlines/d97frimo0.txt'
+ 'http://brisbanetimes.com.au/world/pope-leads-way-of-the-cross-20090411-a33p.html'
+ 'http://washingtontimes.com/news/2009/apr/10/pope-presides-over-way-of-the-cross-procession-1/'
+ 'http://3news.co.nz/News/Pope-presides-over-Way-of-the-Cross-procession/tabid/209/articleID/99354/Default.aspx?ArticleID=99354'
+ 'http://.whdh.com/news/articles/world/BO110130/'
+ 'http://.journalnow.com/content/2009/apr/11/hope-amid-sorrow-pope-remembers-earthquake-victims/news/'
+ 'http://mercurynews.com/news/ci_12120666?source=rss'
+ 'http://mercurynews.com/nationworld/ci_12120666?source=rss'
+ 'http://stltoday.com/stltoday/news/stories.nsf/religion/story/53CA563E44FA0918862575950008B98F?OpenDocument'
+ 'http://mysinchew.com/node/23057'
+ 'http://thenewstribune.com/news/religion/story/706180.html?source=rss'
+ 'http://ledger-enquirer.com/252/story/681613.html'
+ 'http://foxnews.com/wires/2009Apr10/0,4670,EUVaticanGoodFriday,00.html'
+ 'http://lubbockonline.com/stories/041109/wor_428044501.shtml'
+ 'http://benningtonbanner.com/ci_12122020'
+ 'http://suntimes.com/lifestyles/religion/1522237,CST-NWS-cross11.article']",A,0.6762,['AS' 'US' 'NZ' 'MY']
+45023,2009-04-15-038444,"italian scientist giampaolo giuliani, a researcher at the national physical laboratory of gran sasso, recently gave warning about an earthquake that was to happen on march 29th of this year near l'aquilla. based on radon gas emissions and a series of observed tremors he tried to convince residents to evacuate, drawing much criticism from the city's mayor and others. giuliani was forced to take down warnings he had posted on the internet. the researcher had said that a `disastrous' earthquake would strike on march 29, but when it didn't, guido bertolaso, head of italy's civil protection agency, last week officially denounced giuliani in court for false alarm. `these imbeciles enjoy spreading false news,' bertalaso was quoted as saying. `everyone knows that you can't predict earthquakes.' giuliani, it turns out, was partially right. a much smaller seismic shift struck on the day he said it would, with the truly disastrous one arriving just one week later. `someone owes me an apology,' said giuliani, who is also a resident of l'aquila. `the situation here is dramatic. i am devastated, but also angry. '",ed gray,Q1621492,2009-04-15 06:43:20,1,['http://keelynet.wordpress.com/2009/04/14/two-earthquake-detector-articles-of-interest/'],A,0.5745,['US']
+67194,2009-10-15-087704,"there has been a breakthrough in negotiations. september 1st, 2009 brussels-european union's (eu) trade commissioner catherine ashton and agriculture commissioner mariann fischer boel will travel to new delhi wednesday to take part in an informal meeting of wto (world trade organisations) ministers hosted by the indian government, the euasianews reported. the meeting will seek to give a renewed push to the doha round of world trade talks, building on decisions taken by g20 leaders in london earlier this year, the european commission said in a statement here tuesday. july 9th, 2009 l'aquila - the groups of rich and developing countries, including india, are likely to commit themselves to early conclusion of the doha development round of multilateral trade talks under the world trade organisation (wto) later thursday. a statement in this regard to this effect is expected from the g8 and g5 countries, as well as egypt, at the g8 summit being held at this quake-hit italian city, some 100 km northeast of rome. kamal nath great negotiator but opposed liberalisation: mandelson london-british business secretary peter mandelson says former commerce and industry minister kamal nath was a great negotiator but wouldn't budge on opening up the indian market. in his first public comments since the formation of the new indian government in may, mandelson said friday that negotiating with major economies such as india in world trade talks was one of his main mandates as the european union's trade commissioner. june 25th, 2009 london-indian investments need not cause fears of an indian raj over britain, the house of lords has been told by an indian-born member, but instead would surely show britain a way out of the current recession. in the 17th century, britain entered into trade with india in the name of the british east india company, lord navneet dholakia of the liberal democrat party told the british upper house of parliament. june 25th, 2009 london-an indian-born member of the british house of lords has told the historic chamber that growing indian investments need not cause fears of an indian raj over britain. rather than causing a reversal of history, he told members, indians could surely show britain a way out of the current recession. june 22nd, 2009 london-indias new trade and commerce minister anand sharma said monday rich countries must grant indian professionals more visas as he pressed for a resumption of stalled global trade talks. sharma, who is in britain for talks with his opposite number peter mandelson, told a gathering of prominent british and indian businessmen the logjam in the so-called doha development round of trade talks must be broken",anand sharma,Q755831,2009-10-15 17:34:46,1,['http://blog.taragana.com/n/uae-britain-to-hold-trade-talks-in-london-197154/'],A,0.7438,['IN']
+11576,2009-09-11-021713,"i am delighted to see l'aquila playing in their home ground again, less than five months after the earthquake. this is a richly deserved award and i am proud to be involved in this evening's presentation,",alessandro troncon,Q742960,2009-09-11 17:24:15,1,['http://telegraph.co.uk/sport/rugbyunion/club/6174885/LAquila-win-IRB-Spirit-of-Rugby-Award-after-help-with-earthquake-tragedy.html'],A,0.5561,['UK']
+38668,2009-04-07-083508,when the earthquake came all the villagers ran panicking into the streets. we saw the village's main tower collapse but thank god no one was killed. i had to persuade people it was ok to return to their houses and now we are drinking a little wine and are all relieved to be alive. some of us are not so lucky. my friend has just returned home to rest after digging with his bare hands in rubble at l'aquila for the body of his girlfriend. he will return tomorrow to dig again.,annalisa angelini,Q29840384,2009-04-07 10:43:11,1,['http://care2.com/news/member/451276626/1108781'],A,0.5809,['US']
+116310,2009-04-09-029540,"i wish to send these holy oils to our dear brother (l'aquila archbishop) giuseppe molinari, who because of the great damage caused by the earthquake cannot gather his faithful today,",pope benedict xvi,Q2494,2009-04-09 18:27:28,3,"['http://sg.news.yahoo.com/afp/20090410/tts-italy-quake-509a08e.html'
+ 'http://malaysia.news.yahoo.com/afp/20090410/tts-italy-quake-509a08e.html'
+ 'http://channelnewsasia.com/stories/afp_world/view/421401/1/.html']",A,0.7295,['US']
+4872,2009-04-26-005451,"bulgaria investigates astrologist for quake claim bulgarian prosecutors launched an inquiry on tuesday to establish whether a famous astrologist who had forecast an earthquake that failed to take place had committed the crime of spreading false information. hundreds of people from the southern city of haskovo slept in tents and their cars on saturday night after astrologist emil leshtanski said an earthquake with a magnitude of up to 7.0 on the richter scale would rock the city that night. leshtanski had said the tremor would cause death and serious damage to the city of some 80,000 people, on the day predominantly christian orthodox bulgarians celebrate easter. bulgarians are highly superstitious, with psychics, healers and fortune-tellers enjoying wide popularity in the balkan country of 7.6 million. panic gave way to anger once the predicted quake did not take place and several people in haskovo said they would take leshtanski to court for causing them distress. prosecutors said they will be collecting evidence in the case for up to two months on suspicion of spreading false information and causing panic. the astrologist faces up to two years in jail if convicted. he published an apology to the citizens of haskovo in a national newspaper where he writes daily zodiac forecasts. italian scientist gioacchino giuliani predicted a major earthquake around l'aquila weeks before disaster struck the city on april 6, killing 294 people, but was reported to the authorities for spreading panic.",bob jones,Multiple,2009-04-26 10:47:50,1,['http://endtimespropheticwords.wordpress.com/2009/04/26/the-astrologer-who-has-more-integrity-than-the-churchs-popular-prophets-have/'],A,0.3772,['US']
+45169,2009-04-08-027495,"i renew my spiritual closeness to the beloved community of l'aquila and other counties hardest hit by violent seismic phenomenon of recent days, which caused many casualties, many wounded and massive damage to property. the speed with which authorities, police, volunteers and other rescue workers have come to our brothers illustrates the importance of solidarity in overcoming together such painful trials.",pope benedict xvi,Q2494,2009-04-08 17:14:12,1,['http://ncregister.com/daily/pope_ill_visit_quake_survivors/'],A,0.5018,['US']
+48518,2009-04-08-093023,"when i felt the earthquake, i got my family out of the house and we immediately left l'aquila,",marcello crucianelli,Q58877276,2009-04-08 19:42:24,1,['http://pubs.acs.org/cen/news/87/i15/8715notw3.html'],A,0.5313,['US']
+21259,2009-10-13-077730,"this is particularly true in countries where weak health systems already struggle to meet the health needs of populations. in burkina faso, flooding forced the evacuation of the patients from the main hospital in the capital city. in indonesia, hospital collapses during the earthquake in sumatra caused additional loss of life. in l'aquila, italy, the collapse of a newly built hospital provided a grim reminder that health systems in richer nations are also at risk.",ban ki-moon,Q1253,2009-10-13 08:20:33,4,"['http://blog.taragana.com/health/2009/10/13/protect-hospitals-from-disasters-un-chief-13524/'
+ 'http://twocircles.net/2009oct13/protect_hospitals_disasters_un_chief.html'
+ 'http://topnews.in/protect-hospitals-disasters-un-chief-2223847'
+ 'http://prokerala.com/news/articles/a85519.html']",A,0.5091,['IN']
+211032,2009-04-14-050916,"seeing the devastation and destruction following the l'aquila earthquake i really wanted to do something to help the victims,",nicole cooke,Q230996,2009-04-14 11:34:17,1,['http://cyclingweekly.co.uk/news/cooke_auctions_jersey_for_earthquake_victims_article_280575.html?aff=rss'],A,0.5858,['UK']
+139526,2009-07-07-060018,the g-8: a new quake for l'aquila.,pope benedict xvi,Q2494,2009-07-07 19:15:27,7,"['http://salon.com/wires/ap/world/2009/07/07/D999PEH00_g8_summit_protests/index.html?source=rss&aim=wires'
+ 'http://blog.taragana.com/n/police-arrest-38-people-after-clashes-at-rome-protests-against-g-8-summit-102180/'
+ 'http://salon.com/wires/ap/world/2009/07/07/D999QIBG2_g8_summit_protests/index.html?source=rss&aim=wires'
+ 'http://kansascity.com/659/story/1310141.html'
+ 'http://dispatch.com/live/content/local_news/stories/2009/07/07/encyclical.html?type=rss&cat=&sid=101'
+ 'http://abclocal.go.com/wls/story?section=news/national_world&id=6903061&rss=rss-wls-article-6903061']",A,0.5365,['IN' 'US']
+169695,2009-07-10-085959,"we came from rome out of solidarity for the residents of l'aquila. the reconstruction hasn't really started yet and for the last three months the government has been getting ready for the g8, not helping victims of the quake,",paolo leonardi,Q3894178,2009-07-10 17:28:49,2,"['http://news24.com/Content/World/News/1073/dbd8f2b848414aa8a684e3da97617d2d/10-07-2009%2007-07/5_000_in_peaceful_G8_protest'
+ 'http://nation.com.pk/pakistan-news-newspaper-daily-english-online/International/11-Jul-2009/5000-protest-at-summit']",A,0.6164,['PK' 'SF']
+20664,2009-04-17-095222,was of italian seismologist giampaolo giuliani touring the medieval mountain town of l'aquila in his van warning the locals with a loudspeaker to evacuate because an earthquake was coming. he was reported to the police for `spreading alarm' and forced to remove his warning from the internet.,paul anthony,Q7149081,2009-04-17 01:35:24,1,['http://thetrumpet.com/index.php?q=6104.4497.0.0'],A,0.5185,['US']
+90972,2009-04-24-021029,"hosting the g8 in l'aquila is like adding another earthquake to the actual one. i think is an unconvincing and illogical option, that will certainly not be appreciated from those who were already working to organize the forthcoming meeting. there are hundreds of man at work every day here for the july event, setting up a g8 meeting is not exactly like organizing a birthday party.",dario franceschini,Q388442,2009-04-24 12:20:52,1,['http://slygames.wordpress.com/2009/04/24/the-g8-in-laquila-will-save-220-millions-and-keep-the-no-globals-away/'],A,0.3732,['US']
+22611,2009-07-03-023947,"i'll be attending the international climate change meetings that coincide with italy's hosting of the g8 meetings in l'aquila, the very region where the earthquake struck in april,",kevin rudd,Q43135,2009-07-03 14:48:37,1,['http://au.rd.yahoo.com/news/rss/top_stories/*http://au.news.yahoo.com/a/-/latest/5701685'],A,0.5514,['US']
+81495,2009-06-15-040881,"obama is looking for common ground on boosting the troubled economy, and the two leaders are likely to discuss the differing approaches of the u.s. and most of europe -- a topic that will feature prominently at the july summit of the group of eight leading industrial nations in l'aquila [ pronounced lah-kweelah ], the apennine mountain town that was devastated by an earthquake this spring.",larry summers,Q317953,2009-06-15 13:31:43,1,['http://firstread.msnbc.msn.com/archive/2009/06/15/1964626.aspx'],A,0.3803,['US']
+189916,2009-04-08-066840,"the historic center of l'aquila has been devastated and as expected, damage to unreinforced masonry (urm) buildings is severe. narrow streets have been made impassable by the rubble of collapsed urm houses-many of them more than 100 years old. however, damage was not restricted to the oldest structures. many reinforced concrete (rc) frame buildings dating from the 1960s and 1970s-and thus predating seismic code provisions-suffered heavy damage as well. among these, the variability of damage is reported to be high, with one severely damaged next to another which appears to be intact. however, even newer rc frame buildings also suffered damage, and many exhibit gaping shear cracks in their walls.",guillermo franco,Multiple,2009-04-08 04:16:10,1,"['http://earthtimes.org/articles/show/air-worldwide-estimates-insured-losses,778645.shtml']",A,0.5207,['US']
+206822,2009-04-12-029851,"it's easter for us too, despite the tragedy and the rubble of the earthquake. the resurrection of christ is also the resurrection of l'aquila.",giuseppe molinari,Multiple,2009-04-12 16:54:12,2,"['http://uk.news.yahoo.com/5/20090412/twl-earthquake-survivors-mark-easter-in-3fd0ae9.html'
+ 'http://news.sky.com/skynews/Home/World-News/Italy-Earthquake-Thousands-Mark-Easter-In-Tent-Cities-And-Emergency-Shelters/Article/200904215260684?f=rss']",A,0.5612,['US' 'UK']
+14445,2009-04-20-012479,"especially for all those suffering from the earthquake in aquila,",georg gänswein,Q60628,2009-04-20 12:39:02,1,['http://catholic.org/international/international_story.php?id=33220'],A,0.5396,['US']
+203369,2009-07-08-078257,we are all from l'aquila - the g8 is an earthquake.,angela merkel,Q567,2009-07-08 05:43:27,9,"['http://kentucky.com/524/story/855897.html'
+ 'http://kentucky.com/473/story/856036.html'
+ 'http://goerie.com/apps/pbcs.dll/article?AID=/20090708/NEWS07/307089955'
+ 'http://kentucky.com/103/story/856036.html'
+ 'http://cleveland.com/business/index.ssf/2009/07/g8_leaders_stress_need_for_sti.html'
+ 'http://sacbee.com/827/story/2008752.html?mi_rss=Wire%20National%20News'
+ 'http://charlotteobserver.com/world/story/822450.html'
+ 'http://thestate.com/166/story/856526.html?RSS=untracked'
+ 'http://thestate.com/world/story/856526.html?RSS=untracked']",A,0.432,['US']
+151617,2009-04-06-068876,"the tremors being felt by the population are part of a typical sequence that is absolutely normal in a seismic area like the one around l'aquila,",giampaolo giuliani,Q2269204,2009-04-06 15:07:51,1,['http://calvininjax.wordpress.com/2009/04/06/at-least-90-dead-as-earthquake-rocks-italian-city-despite-warnings-by-scientist/'],A,0.5704,['US']
+102693,2009-04-08-061260,"spiritual closeness to the beloved community of l'aquila and its outlying villages, so severely affected by the violent earthquake of recent days, which caused numerous victims, many injured and vast material damage.",pope benedict xvi,Q2494,2009-04-08 15:44:24,1,['http://catholicnewsagency.com/new.php?n=15641'],A,0.7364,['US']
+6273,2010-05-14-002380,"a tragic earthquake, shocking corruption and massive abuse of power: even for italians accustomed to their country's scandals, `draquila' is a kick in the gut,",sabina guzzanti,Q772416,2010-05-14 00:04:48,1,['http://ca.news.yahoo.com/s/afp/100513/entertainment/entertainment_film_festival_cannes_italy'],A,0.358,['US']
+188230,2010-02-05-054649,"i've never forgotten the images of the earthquake and the immense tragedy that followed. this is a way to tell the people that we haven't forgetten, and we want to support the reconstruction of the city of aquila and the neighboring towns destroyed by the quake. it's also an invitation to focus on young people, on students to help this land and its extraordinary people and get them up and running again. we're going to be auctioning the two parts of the tail section of the yamaha that i used in qatar. in that race in april, to show my closeness to the population affected by the earthquake, i put the `forza abruzzo' sticker on my yamaha.",valentino rossi,Q169814,2010-02-05 14:15:28,1,['http://visordown.com/motorcycle-news--general-news/bid-for-valentino-rossis-yamaha-m1-tailpiece-/9397.html'],A,0.7863,['UK']
+7415,2010-11-04-035330,"i moved from l'aquila that night eight hours before the earthquake. i'm from milan, which is very far away from l'aquila, so i used to stay always in l'aquila, and i was very lucky for the work in rome,",antonio paolucci,Q913004,2010-11-04 04:00:00,1,['http://post-gazette.com/pg/10308/1100460-60.stm?cmpid=movievideo.xml'],C,0.563,['US']
+178420,2010-02-08-075856,"this is a way to tell the people that we haven't forgotten, and we want to support the reconstruction of the city of aquila and the neighboring towns destroyed by the quake,",valentino rossi,Q169814,2010-02-08 10:07:27,1,['http://autoevolution.com/news/rossi-gives-away-yamaha-m1-tailpiece-for-abruzzo-victims-16454.html'],A,0.7242,['US']
+189091,2010-04-07-026548,"i am in l'aquila from new york to visit my parents, who now live 6 miles from the historic center, where they used to own a beautiful old apartment. the apartment is still there, with just a couple of lesions in the living room, but is condemned like the rest of the town. there is no rebuilding effort in place (...) the hundreds of people gathered to remove the debris from the middle of the square in l'aquila are no strangers to politics. theirs is a form of protest against the decision to turn the town into a large landfill after the earthquake of last april 6.",nichi vendola,Q507595,2010-04-07 12:09:16,1,['http://versolaquila.wordpress.com/2010/04/07/laquila-u-s-a/'],A,0.5647,['US']
+66184,2010-01-14-060489,"nipissing university students and staff appreciate the opportunity to be able to distribute some of valerie's pens to children in rural kenya and in the earthquake damaged area of l'aquila, italy.",dave levac,Q5229182,2010-01-14 14:41:44,1,['http://parisstaronline.com/ArticleDisplay.aspx?e=2261089'],A,0.5624,['CA']
+78632,2010-01-13-002409,"after a devastating earthquake killed hundreds and left tens of thousands homeless in l'aquila, italy, in april, the emergency relief efforts were extraordinary. but now, as local mayors and the italian culture ministry prepare to take over recovery efforts from emergency agencies, the longer-term future of the city is in question.",michael kimmelman,Q3856201,2010-01-13 17:43:18,1,['http://nytimes.com/slideshow/2009/12/23/arts/20091224-abroad-ss_index.html'],A,0.5701,['US']
+195127,2010-09-22-039165,"i was thrilled to be contacted by focus features and asked to contribute to the movie in some way -- especially when the earthquake-ravaged region deserves so much attention. abruzzo is unusually atmospheric and beautiful, with the sophistication and baroque elegance of l'aquila at its centre.",george clooney,Q23844,2010-09-22 14:29:59,1,['http://torontosun.com/life/columnists/rita_demontis/2010/09/22/15436346.html'],C,0.7676,['CA']
+216912,2011-09-21-076319,"the defendants gave inexact, incomplete, and contradictory information about smaller tremors in l'aquila six days before the earthquake on april 6, 2009.",enzo boschi,Q3726465,2011-09-21 14:00:15,1,['http://digitaljournal.com/article/311779'],C,0.5536,['US']
+97025,2011-09-20-072659,"the science is not on trial here, as they say, this is not the trial of galileo galilei, but it is a trial to judge if there were responsibilities, mistakes, or incorrect behavior by those scientists who held the meeting in l'aquila before the earthquake happened,",giorgio napolitano,Multiple,2011-09-20 08:13:00,21,"['http://kansascity.com/2011/09/20/3154674/trial-opens-against-scientists.html#storylink=rss'
+ 'http://nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10753244&ref=rss'
+ 'http://cbsnews.com/stories/2011/09/20/501364/main20108975.shtml'
+ 'http://hutchnews.com/World/Trial-opens-against-scientists-for-Italy-quake'
+ 'http://stuff.co.nz/the-press/news/christchurch-earthquake-2011/quake-science/5659464/Scientists-on-trial-over-earthquake-deaths'
+ 'http://kdwn.com/index.php?page=2&section=WORLD_NEWS&title=Trial_opens_against_scientists_for_Italy_quake'
+ 'http://timesrecordnews.com/news/2011/sep/20/trial-opens-against-scientists-italy-quake/'
+ 'http://boston.com/news/science/articles/2011/09/20/trial_opens_against_scientists_for_italy_quake/?rss_id=Top+Stories'
+ 'http://npr.org/2011/09/20/140650913/trial-opens-against-scientists-for-2009-italy-quake?ft=1&f=1025'
+ 'http://newarkadvocate.com/usatoday/article/50485336?odyssey=mod|newswell|text|Frontpage|p'
+ 'http://usatoday.com/news/world/story/2011-09-20/italy-quake-trial/50485336/1?csp=34news'
+ 'http://newarkadvocate.com/usatoday/article/50485336?odyssey=mod|newswell|img|Frontpage|p'
+ 'http://newarkadvocate.com/usatoday/article/50485336?odyssey=mod|newswell|text|Frontpage|s'
+ 'http://thejournal.ie/italian-scientists-face-manslaughter-charges-over-italy-earthquake-232419-Sep2011/'
+ 'http://king5.com/home/Italian-scientists-on-trial-for-failing-to-predict-earthquake-130298408.html'
+ 'http://krem.com/home/130303378.html'
+ 'http://kwqc.com/Global/story.asp?S=15503717&nav=menu83_1'
+ 'http://topnews360.tmcnet.com/topics/associated-press/articles/2011/09/23/221662-trial-opens-against-scientists-italy-quake.htm'
+ 'http://newson6.com/story/15503717/trial-opens-against-scientists-for-italy-quake'
+ 'http://topnews360.tmcnet.com/topics/associated-press/articles/2011/09/26/222570-trial-opens-against-scientists-italy-quake.htm']",C,0.5491,['EI' 'NZ' 'US']
+141083,2011-09-20-072660,"the science is not on trial here, as they say, this is not the trial of galileo galilei, but it is a trial to judge if there were responsibilities, mistakes, or incorrect behaviour by those scientists who held the meeting in l'aquila before the earthquake happened,",giorgio napolitano,Multiple,2011-09-20 18:12:00,1,['http://theglobeandmail.com/news/world/europe/scientists-accused-of-giving-misleading-info-on-italy-quake-begin-trial/article2172954/?utm_medium=Feeds%3A%20RSS%2FAtom&utm_source=Home&utm_content=2172954'],C,0.5786,['CA']
+5082,2011-06-24-061627,"the judge said the defendants `gave inexact, incomplete and contradictory information' about whether smaller tremors in l'aquila six months before... should have been viewed as warning signs of the subsequent disaster.",enzo boschi,Q3726465,2011-06-24 14:53:14,1,['http://lawprofessors.typepad.com/crimprof_blog/2011/06/italian-seismologists-charged-with-manslaughter-kolber.html'],C,0.5676,['US']
+114836,2011-09-25-026452,it's not correct. that's what the people of l'aquila [ italy ] thought and they stayed in their homes. i don't want to scare people but small aftershocks do increase the risk of bigger quakes by a small amount. all aftershocks can increase stress.,martha savage,Q55386838,2011-09-25 16:30:00,1,['http://odt.co.nz/news/national/179435/aftershocks-increase-risk-prof-says'],C,0.7305,['NZ']
+17703,2011-09-21-000571,"a few weeks after the l'aquila disaster, the italian government appointed an international panel of experts, which i chaired, to suggest guidelines for improving earthquake forecasting in italy,",thomas jordan,Multiple,2011-09-21 20:31:04,4,"['http://uscnews.usc.edu/university/david_rose_witness_to_the_prosecution.html#70676'
+ 'http://uscnews.usc.edu/university/its_time_to_drop_cover_and_hold_on.html#70678'
+ 'http://uscnews.usc.edu/business/power_corrupts_when_it_lacks_status.html#70681'
+ 'http://uscnews.usc.edu/science_technology/it_could_happen_one_night.html#70686']",C,0.7409,['US']
+48563,2011-09-19-075980,to alert the population of l'aquila of an impending earthquake,giorgio napolitano,Multiple,2011-09-19 22:38:29,1,['http://.canada.com/nanaimodailynews/news/story.html?id=5426198'],C,0.3042,['CA']
+98429,2012-10-26-015986,"focused attention on a vexing problem in earthquake-prone regions around the world: how to effectively communicate the risk of potential disaster. whatever the merits of the l'aquila case, scientists and government officials have difficulty conveying what they know about the risk of earthquakes in ways that help prepare the public without sowing panic.",s. hall,Q58338166,2012-10-26 00:04:32,1,['http://huffingtonpost.com/paul-raeburn/italian-scientists-convic_b_2006864.html?utm_hp_ref=green&ir=Green'],C,0.5045,['US']
+66526,2012-10-22-083458,"we know that the system for communicating risk before the l'aquila earthquake was flawed, but this verdict will cast a pall over any attempt to improve it. i'm afraid that many scientists are learning to keep their mouths shut. this won't help those of us who are trying to improve risk communication between scientists and the public.",thomas jordan,Multiple,2012-10-22 20:10:42,1,['http://news.sciencemag.org/scienceinsider/2012/10/earthquake-experts-convicted-of-.html?rss=1'],C,0.4222,['US']
+124391,2012-10-25-047915,"it is unlikely that an earthquake like the one in 1703 [ a devastating earthquake that hit l'aquila ] could occur in the short-term, but the possibility cannot be totally excluded.",enzo boschi,Q3726465,2012-10-25 21:30:00,1,['http://nzherald.co.nz/opinion/news/article.cfm?c_id=466&objectid=10842872&ref=rss'],C,0.5696,['NZ']
+40387,2012-10-24-047658,"it is unlikely that an earthquake like the one in 1703 [ a devastating earthquake that previously hit l'aquila ] could occur in the short term, but the possibility cannot be totally excluded.",enzo boschi,Q3726465,2012-10-24 22:13:46,2,"['http://sciencemediacentre.co.nz/2012/10/25/learning-from-laquila-and-why-canterbury-is-different/'
+ 'http://sciblogs.co.nz/guestwork/2012/10/25/learning-from-laquila-and-why-canterbury-is-different/']",C,0.6182,['NZ']
+151714,2012-10-22-067670,"the scientists involved in the trial conveyed to the public the uncertainty and small probability of an earthquake occurring in l'aquila based on accepted knowledge we as a community have accumulated over many years. the words `improbable' and `unlikely to occur' are often unfortunate translations from scientists of these small probabilities, as they convey to some in the public that a large magnitude event will never occur, when the scientists are trying to convey that there is a possibility, just small and finite. but, that any year, there is a given chance of an earthquake of a given society or larger occurring. it would certainly benefit society if instead of prosecuting individual scientists for a perceived failure to communicate, it rather works on educating the average citizen, through the schools and examples, as to what is meant by uncertainty and low probability.",bruce malamud,Q57414405,2012-10-22 20:21:14,2,"['http://sciblogs.co.nz/griffins-gadgets/2012/10/23/scientists-slam-manslaughter-convictions-for-seismologists/'
+ 'http://sciencemediacentre.co.nz/2012/10/23/earthquake-scientists-guilty-of-manslaughter-in-italy-experts-respond/']",C,0.3624,['NZ']
+12944,2012-05-21-011408,"earthquake was the strongest to occur in italy since the magnitude 6.3 l'aquila earthquake that struck central italy in 2009. today's event occurred in an area of generally low seismicity and using currently available information, early indications are that insured losses will not be significant given the low residential take-up rates and the relatively rural nature of the epicentral region.",san felice,Q36557156,2012-05-21 10:26:04,2,['http://insurancejournal.com/news/international/2012/05/21/248275.htm'],C,0.5297,['US']
+6876,2012-05-18-000195,"a billion people go to bed hungry every day and a challenge of this magnitude requires a new approach. but any partnership with the private sector must not be a substitute for governments meeting previous obligations, such as those agreed in 2009 at the g8 summit in l'aquila when $22 billion was pledged in agricultural and food security assistance.",sam worthington,Q82085,2012-05-18 20:48:00,1,['http://istockanalyst.com/article/viewarticle/articleid/5852175'],C,0.5618,['US']
+146105,2012-10-22-006602,because l'aquila is in a high-risk zone it is impossible to say with certainty that there will be no large earthquake,None,,2012-10-22 22:41:53,1,['http://motherjones.com/kevin-drum/2012/10/scientists-convicted-not-predicting-earthquake'],C,0.5018,['US']
+214770,2012-10-29-025161,"i hope the l'aquila verdict will be overturned on appeal because it is impossible to make precise and timely predictions of earthquakes,",corrado clini,Q2054899,2012-10-29 23:24:45,2,"['http://cosmosmagazine.com/news/6113/italy-minister-wants-quake-ruling-overturned'
+ 'http://iafrica.com/articles/824389.html']",C,0.75,['SF' 'AS']
+214353,2012-11-09-041120,investigating the seismic phenomenon that had been taking place for several months in the region of aquilana.,guido bertolaso,Q3119409,2012-11-09 14:12:53,1,['http://wsws.org/articles/2012/nov2012/ital-n09.shtml'],C,0.6881,['US']
+65808,2012-10-22-083459,"we know that the system in italy for communicating risk before the l'aquila earthquake was flawed, but this verdict will cast a pall over any attempt to set up a better one. i'm afraid that many scientists are learning to keep their mouths shut,",thomas jordan,Multiple,2012-10-22 18:54:37,3,"['http://huffingtonpost.com/2012/10/22/earthquake-scientists-jail-conviction-italy_n_2002848.html'
+ 'http://laobserved.com/archive/2012/10/say_what_italy_convicts_s.php'
+ 'http://mnn.com/earth-matters/wilderness-resources/stories/manslaughter-scientists-appalled-by-laquila-earthquake-ve']",C,0.3146,['US']
+233936,2012-10-22-075666,"this verdict is a sad end to a tragic series of events in l'aquila. earthquakes cannot be predicted, and these scientists should not even have been on trial accused of providing incomplete information.",enzo boschi,Q3726465,2012-10-22 18:48:35,3,"['http://independent.co.uk/news/world/europe/italian-scientists-jailed-for-six-years-after-failing-to-issue-warnings-ahead-of-deadly-laquila-earthquake-8221905.html'
+ 'http://belfasttelegraph.co.uk/news/world-news/scientists-jailed-for-six-years-over-downplaying-risk-of-huge-quake-16228084.html?r=RSS'
+ 'http://independent.ie/world-news/europe/shock-as-scientists-jailed-for-six-years-over-downplaying-risk-of-huge-quake-3269972.html']",C,0.549,['EI' 'UK']
+56096,2012-10-23-067554,"the basis for indictments brought by the local prosecutor in l'aquila appears to be that the scientists failed to alert the population of l'aquila of an impending earthquake,",alan i. leshner,Q4706929,2012-10-23 04:30:36,2,"['http://cbc.ca/news/world/story/2012/10/22/italy-earthquake-scientists-trial.html'
+ 'http://cbc.ca/news/technology/story/2012/10/22/italy-earthquake-scientists-trial.html']",C,0.4265,['CA']
+222112,2012-08-03-003040,"ancient and medieval earthquakes in the area of l'aquila (northwestern abruzzo, central italy), a.d. 1-1500: a critical revision of the historical and archaeological data",emanuela guidoboni,Q3051978,2012-08-03 04:00:00,2,"['http://eurekalert.org/pub_releases/2012-08/ssoa-ars080312.php'
+ 'http://phys.org/news263218321.html']",C,0.3767,['US']
+22838,2012-09-27-047565,"it was mistaken to think that the scientists could have alerted the people of l'aquila to the possibility of an earthquake,",giorgio napolitano,Multiple,2012-09-27 09:31:20,1,['http://dnaindia.com/world/report_italian-experts-face-jail-for-failing-to-predict-quake_1745920'],C,0.7097,['IN']
+26393,2012-02-29-088262,"this approach is tricky because no-one can quite agree on which are the best models. so, we have uncertainty on uncertainty. but can we ignore the information that they give us? the earthquakes in l'aquila and new zealand taught us we don't have that luxury,",None,,2012-02-29 05:00:00,3,"['http://eurekalert.org/pub_releases/2012-02/iop-tpo022812.php'
+ 'http://sciencecodex.com/the_physics_of_earthquake_forecasting-87011'
+ 'http://redorbit.com/news/science/1112485591/the-physics-of-earthquake-forecasting/']",C,0.5095,['US']
+107431,2013-02-11-018019,"he's looking for someone file - in this april 28, 2009 file photo provided then by the vatican newspaper l'osservatore romano, pope benedict xvi stands by the salvaged remains of pope celestine v, in the 13th-century santa maria di collemaggio basilica, the symbol of the city of l'aquila, whose roof partially caved in during the quake. benedict xvi announced monday, feb. 11, 2013 that he would resign on feb. 28 because he was simply too infirm to carry on - the first pontiff to do so in nearly 600 years. the decision sets the stage for a conclave to elect a new pope before the end of march. pope celestine v, the 13th-century hermit and saint, was one of the earlier popes to resign. (ap photo/l `osservatore romano, file) (anonymous) he connects with, who listens to him and he feels comfortable talking to.",pope benedict xvi,Q2494,2013-02-11 07:00:00,1,['http://redlandsdailyfacts.com/ci_22568994/southern-california-catholics-make-papal-wish-list?source=rss_viewed'],C,0.5939,['US']
+89436,2013-01-21-043705,surely the judge does not think that after warning of italy's seismic risks for years i would have suddenly said that in l'aquila there was no risk of an earthquake?,enzo boschi,Q3726465,2013-01-21 15:41:17,1,['http://news.sciencemag.org/scienceinsider/2013/01/judge-in-laquila-earthquake-tria.html?rss=1'],C,0.562,['US']
+115534,2013-09-26-072236,"The earthquakes at L'Aquila were part of an earthquake swarm, and science does not permit us to predict whether the swarm will include a large damaging earthquake mid-swarm or will simply taper off without damage.",None,,2013-09-26 16:27:08,2,"['http://www.scientificamerican.com/article.cfm?id=italy-abruzzo-earthquake-scientist-trial'
+ 'http://news.yahoo.com/faulty-justice-italian-earthquake-scientist-speaks-against-conviction-180000127.html']",D,0.553,['US']
+63029,2013-09-26-005511,"As a former president of the INGV, I never spoke to the media about the seismic situation at L'Aquila, and no relative of the victims suggested otherwise,",Enzo Boschi,Q3726465,2013-09-26 18:00:20,3,"['http://www.livescience.com/39978-enzo-boschi-denounces-laquila-conviction.html'
+ 'http://news.yahoo.com/earthquake-case-convicted-italian-geologist-denounces-charges-180454451.html'
+ 'http://sg.news.yahoo.com/earthquake-case-convicted-italian-geologist-denounces-charges-180454451.html']",D,0.8976,['US']
+213826,2013-09-28-002439,"As a former president of the INGV, I never spoke to the media about the seismic situation at L'Aquila,",Enzo Boschi,Q3726465,2013-09-28 18:21:00,2,"['http://www.chicagotribune.com/news/nationworld/la-sci-sn-italy-earthquake-forecast-prison-20130926,0,5300188.story?track=rss'
+ 'http://ktuu.com/la-sci-sn-italy-earthquake-forecast-prison-20130926,0,6959604.story']",D,0.8363,['US']
+132150,2013-09-28-012629,"I have been sentenced to 6 years of imprisonment for failing to give adequate advance warning to the population of L'Aquila, a city in the Abruzzo region of Italy, about the risk of the 6 April 2009 earthquake that led to 309 deaths,",Enzo Boschi,Q3726465,2013-09-28 18:21:00,2,"['http://www.chicagotribune.com/news/nationworld/la-sci-sn-italy-earthquake-forecast-prison-20130926,0,5300188.story?track=rss'
+ 'http://ktuu.com/la-sci-sn-italy-earthquake-forecast-prison-20130926,0,6959604.story']",D,0.8595,['US']
+235237,2013-09-26-006674,"At that meeting, I (and others) stated that Abruzzo, and particularly L'Aquila, is one of the worst earthquake zones in Italy. I then explained that earthquakes are not predictable for good scientific reasons and discussed some of the seismic mechanics involved,",Enzo Boschi,Q3726465,2013-09-26 18:00:20,3,"['http://www.livescience.com/39978-enzo-boschi-denounces-laquila-conviction.html'
+ 'http://news.yahoo.com/earthquake-case-convicted-italian-geologist-denounces-charges-180454451.html'
+ 'http://sg.news.yahoo.com/earthquake-case-convicted-italian-geologist-denounces-charges-180454451.html']",D,0.7501,['US']
+229797,2013-05-07-006867,"Before the main L'Aquila earthquake, it would be reasonable to suggest that there would have been a 1 per cent chance, or possibly a little higher, of a larger event in the following two weeks,",Gary Gibson,Multiple,2013-05-07 03:47:38,1,['http://www.theage.com.au/national/education/shake-rattle-and-roll-20130503-2ixqh.html'],D,0.8918,['AS']
+53768,2013-09-26-020189,"He makes a powerful defense against the unjustified conviction of scientists in the L'Aquila case: The problems in communicating seismic risks before the L'Aquila earthquake were the failure of a poorly constructed and badly misused risk-advisory system run by the Department of Civil Protection, not the fault of actions or statements by the scientists themselves,",Thomas Jordan,Multiple,2013-09-26 18:00:20,3,"['http://www.livescience.com/39978-enzo-boschi-denounces-laquila-conviction.html'
+ 'http://news.yahoo.com/earthquake-case-convicted-italian-geologist-denounces-charges-180454451.html'
+ 'http://sg.news.yahoo.com/earthquake-case-convicted-italian-geologist-denounces-charges-180454451.html']",D,0.7567,['US']
+50527,2013-04-19-061869,"the analysis of the trials and police investigations of the last few years shows a depressing picture and reveals how the earthquake has become an opportunity for dubious business ventures and media exposure. in that sense, l'aquila's misfortunes are the mirror of italy's ills",stefano ianni,Q3972538,2013-04-19 13:52:11,1,['http://blog.transparency.org/2013/04/19/laquila-rebuilding-lives-beyond-corruption/'],C,0.5379,['PM']
+203277,2013-01-19-006065,"does the judge not think that, after having spent years exposing the seismic nature of italy, i would have suddenly said that there was no risk of earthquakes in l'aquila? it's all senseless,",president barack obama,Q76,2013-01-19 20:02:51,1,['http://upi.com/Top_News/World-News/2013/01/19/Judge-Science-not-on-trial-in-quake-case/UPI-13551358625771/'],C,0.2715,['US']
+5659,2013-08-15-061159,"The brightest star in the image in the middle is Kappa Aquilae, magnitude 5.9 and the limit of naked-eye visibility from a very dark location,",Richard Hopkins,Multiple,2013-08-15 16:27:27,1,['http://news.bbc.co.uk/news/science-environment-23714597'],D,0.8515,['UK']
+149139,2014-05-01-060962,"revisits the earthquakes of Aquila and Haiti, at both of which the author found himself involved.",None,,2014-05-01 17:48:12,1,['http://www.nybooks.com/blogs/nyrblog/2014/may/01/stupid-questions/'],D,0.7363,['US']
+163055,2014-11-12-077861,"The impact of the L'Aquila earthquake was profound and serves as a reminder of how critical it is that scientists work together with engineers, government officials, and other stakeholders to understand the impacts hazards have on the communities we serve and to communicate that knowledge to the public so they can prepare. We have much to learn from the L'Aquila tragedy-particularly as it relates to the effective communication of risk to the public - and the scientific community must now dedicate itself to implementing those lessons for the betterment of society.",None,,2014-11-12 22:45:00,3,"['http://www.pri.org/stories/2014-11-12/italian-appeals-court-overturns-convictions-six-scientists-accused-not-warning'
+ 'http://kuow.org/post/italian-appeals-court-overturns-convictions-six-scientists-accused-not-warning-people-about'
+ 'http://wvxu.org/post/italian-appeals-court-overturns-convictions-six-scientists-accused-not-warning-people-about']",E,0.7021,['US']
+100170,2015-10-30-136924,"who at the time of the earthquake was head of Italy's civil protection department, set up a meeting of the experts,... ostensibly to analyze the risk posed by a series of small - and medium-sized earthquakes that had been shaking the region around L'Aquila for several months.",Guido Bertolaso,Q3119409,2015-10-30 20:58:43,1,['http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2015_10_30/caredit.a1500253'],E,0.8783,['US']
+47074,2016-09-21-141504,"We can see what is left from recent `big events' that were supposed to revive the country: the unfinished construction sites of Rome 2009 World Swimming Championships, infrastructure abandoned from the Winter Games in Turin in 2006, the failure of Expo Milano 2015, flop of the Pescara 2009 Mediterranean Games, the endless Aquila earthquake reconstruction; the poured concrete on the island La Maddalena in Sardinia that was supposed to host the G8 in 2009. And the billion euro debt that Italians continue to pay while someone is getting rich off of them.",Virginia Raggi,Q23766020,2016-09-21 19:12:19,1,['http://www.vocativ.com/361359/olympics-2024-host-city/'],E,0.8069,['US']
+107598,2016-08-24-126858,"Unlike the L'Aquila quake, which was preceded by swarms of smaller quakes and led to claims -- unjustified in my view -- that the eventual big quake should have been predicted, this one appears to have struck out of the blue.",David Rothery,Q44267485,2016-08-24 00:00:00,33,"['http://www.businessinsider.com/afp-italy-quake-kills-159-as-rescuers-race-to-find-survivors-2016-8'
+ 'http://www.sbs.com.au/news/article/2016/08/24/today-time-tears-and-emotion-italy-quake-leaves-120-dead'
+ 'http://economictimes.indiatimes.com/news/international/world-news/many-dead-as-strong-quake-rattles-central-italy/articleshow/53842049.cms'
+ 'http://thepeninsulaqatar.com/news/international/390006/dozens-dead-as-italy-struck-by-powerful-quake'
+ 'http://naharnet.com/stories/en/215275-at-least-38-dead-dozens-injured-in-powerful-italy-earthquake'
+ 'http://jamaicaobserver.com/latestnews/UPDATE--Death-toll-rise-to-38-in-powerful-Italy-quake'
+ 'http://jamaicaobserver.com/news/UPDATE--Death-toll-rise-to-38-in-powerful-Italy-quake'
+ 'http://www.newindianexpress.com/world/More-than-70-dead-as-pre-dawn-quake-hits-central-Italy/2016/08/24/article3594658.ece'
+ 'http://hurriyetdailynews.com/more-than-70-dead-as-pre-dawn-quake-hits-central-italy.aspx?pageID=238&nID=103199&NewsCatID=351#comment'
+ 'http://www.hurriyetdailynews.com/more-than-70-dead-as-pre-dawn-quake-hits-central-italy.aspx?pageID=238&nid=103199&NewsCatID=351'
+ 'http://thepeninsulaqatar.com/news/international/390033/deadly-quake-brings-carnage-to-italian-mountains'
+ 'http://thedailystar.net/frontpage/73-dead-italy-quake-1275088'
+ 'http://www.newindianexpress.com/world/At-least-120-killed-in-Italy-quake-says-Prime-Minister-Renzi/2016/08/25/article3595313.ece'
+ 'https://uk.news.yahoo.com/least-10-dead-italian-earthquake-media-054706799.html'
+ 'http://www.dawn.com/news/1279689/at-least-120-dead-as-deadly-quake-brings-carnage-to-italian-mountains'
+ 'http://abs-cbnnews.com/overseas/08/25/16/over-200-dead-in-central-italy-earthquake'
+ 'http://jamaicaobserver.com/latestnews/UPDATE--Italy-quake-kills-159-as-rescuers-race-to-find-survivors'
+ 'http://jamaicaobserver.com/news/UPDATE--Italy-quake-kills-159-as-rescuers-race-to-find-survivors'
+ 'http://english.astroawani.com/world-news/italy-quake-kills-159-rescuers-race-find-survivors-115024'
+ 'http://rappler.com/world/regions/europe/144127-italy-quake-toll-rescuers-race-find-survivors'
+ 'http://www.mysinchew.com/node/115172'
+ 'http://thedailystar.net/world/italy-quake-kills-159-rescuers-race-find-survivors-1275274'
+ 'http://mysinchew.com/node/115172?tid=4'
+ 'http://mysinchew.com/node/115172/tid=13'
+ 'http://www.channelnewsasia.com/news/world/italy-quake-toll-hits-247/3072550.html?cid=cna_flip_070214'
+ 'http://www.newindianexpress.com/world/Italy-quake-toll-hits-247-as-rescuers-hunt-for-survivors/2016/08/25/article3596490.ece'
+ 'http://english.astroawani.com/world-news/italy-quake-toll-hits-247-rescuers-hunt-survivors-115045'
+ 'http://radioaustralia.net.au/international/2016-08-25/italy-earthquake-death-toll-rises-to-247-after-rescuers-comb-through-rubble-of-homes/1611588'
+ 'http://naharnet.com/stories/en/215310-italy-quake-toll-hits-247-as-rescuers-hunt-for-survivors'
+ 'http://enca.com/world/italy-quake-toll-hits-247-as-rescuers-hunt-for-survivors'
+ 'http://timesofindia.indiatimes.com/world/europe/Italy-quake-kills-159-as-rescuers-race-to-find-survivors/articleshow/53849880.cms'
+ 'http://timesofindia.indiatimes.com/world/europe/Italy-quake-kills-247-as-rescuers-race-to-find-survivors/articleshow/53849880.cms'
+ 'http://www.dawn.com/news/1279866/italy-quake-toll-hits-247-as-rescuers-hunt-for-survivors']",E,0.9397,['SF' 'RP' 'PK' 'BG' 'JM' 'TU' 'QA' 'SY' 'IN' 'US' 'MY' 'AS']
+44570,2016-08-24-071998,I've just arrived and I feel like crying. I've never seen such an apocalyptic scene except for the L'Aquila earthquake on television.,None,,2016-08-24 09:47:00,6,"['http://www.irishmirror.ie/news/world-news/pictures-aftermath-devastating-earthquake-italy-8694993'
+ 'http://www.irishmirror.ie/news/italy-earthquake-horror-least-10-8694953'
+ 'http://www.mirror.co.uk/news/world-news/italy-earthquake-horror-least-10-8694953'
+ 'http://www.irishmirror.ie/news/terrified-italy-earthquake-survivor-found-8695973'
+ 'http://www.mirror.co.uk/news/world-news/italy-earthquake-horror-least-10-8695973'
+ 'http://www.mirror.co.uk/news/world-news/terrified-italy-earthquake-survivor-found-8695973']",E,0.7026,['EI' 'UK']
+11863,2016-08-24-151824,"You get the immediate help to them, but people in L’Aquila (site of a 2009 earthquake that killed more than 300 people) are still waiting for long-term help,",None,,2016-08-24 00:00:00,3,"['http://www.caledonenterprise.com/news-story/6822382-vaughan-italians-comment-on-devastating-wednesday-morning-earthquake-in-italy/'
+ 'http://yorkregion.com/news-story/6822382-vaughan-italians-comment-on-devastating-wednesday-morning-earthquake-in-italy/'
+ 'http://yorkregion.com/news-story/6825442-national-council-of-italian-canadians-in-vaughan-starts-fund-to-help-earthquake-victims/']",E,0.8904,['CA']
+185045,2016-08-25-144205,"When they had the earthquake in L'Aquila we did some fundraising activities and sent some money across, and I'm sure something like that will happen here,",Angelo Damiano,Q535796,2016-08-25 08:22:46,5,"['http://brisbanetimes.com.au/act-news/canberras-italian-community-to-unite-in-the-face-of-norcia-earthquake-20160825-gr0u6o.html'
+ 'http://smh.com.au/act-news/canberras-italian-community-to-unite-in-the-face-of-norcia-earthquake-20160825-gr0u6o.html'
+ 'http://theage.com.au/act-news/canberras-italian-community-to-unite-in-the-face-of-norcia-earthquake-20160825-gr0u6o.html'
+ 'http://watoday.com.au/act-news/canberras-italian-community-to-unite-in-the-face-of-norcia-earthquake-20160825-gr0u6o.html'
+ 'http://www.canberratimes.com.au/act-news/canberras-italian-community-to-unite-in-the-face-of-norcia-earthquake-20160825-gr0u6o.html']",E,0.9375,['AS']
+17714,2016-08-25-126164,"We are close to the number of victims of the L'Aquila earthquake,",Fabrizio Curcio,Q21587592,2016-08-25 16:24:01,1,['http://www.prokerala.com/news/articles/a673879.html'],E,0.9406,['IN']
+140365,2016-08-24-126857,"Unlike the L `Aquila quake, which was preceded by swarms of smaller quakes and led to claims -- unjustified in my view -- that the eventual big quake should have been predicted, this one appears to have struck out of the blue.",David Rothery,Q44267485,2016-08-24 00:00:00,37,"['http://www.vanguardngr.com/2016/08/dozens-dead-italy-struck-powerful-quake/'
+ 'http://www.vanguardngr.com/2016/08/italy-sister-husband-rubble/'
+ 'http://jpupdates.com/2016/08/24/dozens-dead-as-italy-struck-by-powerful-quake/'
+ 'http://www.breitbart.com/news/dozens-dead-as-italy-struck-by-powerful-quake/'
+ 'http://thestar.com.my/news/world/2016/08/24/death-toll-italy-quake/'
+ 'http://zeenews.india.com/news/europe/at-least-73-dead-as-pre-dawn-earthquake-hits-central-italy_1922151.html'
+ 'http://www.breitbart.com/news/more-than-70-dead-as-pre-dawn-quake-hits-central-italy/'
+ 'http://bworldonline.com/content.php?section=World&title=dozens-dead-as-italy-struck-by-powerful-quake&id=132463'
+ 'http://gulfnews.com/159-killed-in-italy-earthquake-disaster-1.1884527?localLinksEnabled=false&utm_source=Feeds&utm_medium=RSS&utm_term=Most viewed RSS &utm_content=1.1884527&utm_campaign=159 killed in Italy earthquake disaster'
+ 'http://gulfnews.com/159-killed-in-italy-quake-disaster-1.1884527?localLinksEnabled=false&utm_source=Feeds&utm_medium=RSS&utm_term=Most viewed RSS &utm_content=1.1884527&utm_campaign=159 killed in Italy quake disaster'
+ 'http://gulfnews.com/italy-earthquake-247-killed-villages-wiped-out-1.1884527?localLinksEnabled=false&utm_source=Feeds&utm_medium=RSS&utm_term=Most viewed RSS &utm_content=1.1884527&utm_campaign=Italy earthquake: 247 killed, villages wiped out'
+ 'http://gulfnews.com/news/europe/italy/159-killed-in-italy-earthquake-disaster-1.1884527'
+ 'http://gulfnews.com/news/europe/italy/159-killed-in-italy-quake-disaster-1.1884527'
+ 'http://gulfnews.com/news/europe/italy/italy-earthquake-159-killed-towns-wiped-out-1.1884527'
+ 'http://gulfnews.com/news/europe/italy/italy-earthquake-159-killed-villages-wiped-out-1.1884527'
+ 'http://gulfnews.com/news/europe/italy/italy-earthquake-247-killed-villages-wiped-out-1.1884527'
+ 'http://www.manilatimes.net/italy-myanmar-hit-by-powerful-quakes/281963/'
+ 'http://www.breitbart.com/news/deadly-quake-brings-carnage-to-italian-mountains/'
+ 'http://www.breitbart.com/news/at-least-120-killed-in-italy-quake/'
+ 'http://www.breitbart.com/news/killer-quake-brings-carnage-to-italy-mountain-resorts/'
+ 'http://www.hindustantimes.com/world-news/more-than-70-dead-as-pre-dawn-quake-hits-central-italy/story-apLg0TB2WTCAUHYQG0sqkN.html'
+ 'http://dunyanews.tv/index.php/en/World/350655-Italy-quake-toll-climbs-to-at-least-159-official'
+ 'http://www.breitbart.com/news/italy-quake-kills-159-as-rescuers-race-to-find-survivors/'
+ 'http://www.timesofisrael.com/italy-quake-toll-rises-to-247-as-rescuers-race-to-find-survivors/'
+ 'https://www.thenews.com.pk/print/145095-Over-120-killed-as-ferocious-quake-strikes-Italy'
+ 'http://newsinfo.inquirer.net/809539/italy-quake-deaths-hit-159-as-rescuers-race-to-find-survivors'
+ 'http://malaysiandigest.com/world/628622-italy-quake-kills-159-as-rescuers-race-to-find-survivors.html'
+ 'http://www.theborneopost.com/2016/08/25/italy-quake-kills-159-as-rescuers-race-to-find-survivors/'
+ 'http://tribune.com.pk/story/1169638/italy-quake-toll-climbs-least-247-civil-protection/'
+ 'http://www.breitbart.com/news/italy-quake-toll-hits-247-as-rescuers-hunt-for-survivors/'
+ 'http://www.manilatimes.net/italy-quake-toll-hits-247-as-rescuers-hunt-for-survivors/281978/'
+ 'http://dunyanews.tv/index.php/en/World/350655-Italy-quake-toll-hits-247-as-rescuers-hunt-for-sur'
+ 'http://hurriyetdailynews.com/italy-quake-toll-hits-247-as-rescuers-hunt-for-survivors.aspx?pageID=238&nID=103213&NewsCatID=351#comment'
+ 'http://www.pakistantoday.com.pk/2016/08/25/foreign/italy-earthquake-death-toll-rises-to-247/'
+ 'http://www.hurriyetdailynews.com/italy-quake-toll-hits-247-as-rescuers-hunt-for-survivors.aspx?pageID=238&nid=103213&NewsCatID=351'
+ 'http://indianexpress.com/article/world/world-news/italy-earthquake-at-least-120-killed-death-toll-likely-to-rise-warns-prime-minister-matteo-renzi-2994635/'
+ 'http://thestandard.com.ph/news/world-news/214338/italy-earthquake-claims-247-lives.html']",E,0.9354,['US' 'IN' 'IS' 'RP' 'PK' 'MY' 'AE' 'TU' 'NI']
+33410,2016-05-06-005456,"and other managers have been accused of nepotism, conflicts of interest, and misuse of funds, while two of the organization's scientists, including previous boss Enzo Boschi, were put on trial and convicted to 6 years in prison in 2012 for allegedly giving false reassurances ahead of the deadly earthquake that struck L'Aquila, Italy, in 2009.",None,,2016-05-06 18:53:30,1,['http://www.sciencemag.org/careers/2016/05/elsewhere-science-syrian-scholars-management-blunders-and-more'],E,0.9034,['US']
+119764,2016-08-25-127480,"We are still reconstructing L'Aquila [ from its deadly earthquake in 2009 ] but we can take these millions to apply immediately to overcoming the emergency and begin reconstruction as soon as possible,",Paola De Micheli,Q3893547,2016-08-25 14:43:26,1,['http://www.theage.com.au/world/italy-earthquake-death-toll-rises-as-rescuers-pull-bodies-from-the-rubble-20160823-gr11bw.html'],E,0.919,['AS']
+147663,2016-08-26-009057,"As you probably know, the issue is not really much with new buildings. Italy has a quite advanced and state of the art building code... The real problem is really with existing old buildings that have been there for several hundred years without any consideration of seismic design code. Based on past experience of L’Aquila 2009 event, not far away from the current one, probably 30 miles, it actually was a great wake up call for Italy for understanding the key issue is really preparedness. It's not just managing the emergency.",Carmine Galasso,Q58348623,2016-08-26 00:00:00,4,"['http://iowapublicradio.org/post/why-italys-medieval-infrastructure-may-be-blame-earthquake-destruction'
+ 'http://wamc.org/post/why-italys-medieval-infrastructure-may-be-blame-earthquake-destruction'
+ 'http://wuwf.org/post/why-italys-medieval-infrastructure-may-be-blame-earthquake-destruction'
+ 'http://www.ksmu.org/post/why-italys-medieval-infrastructure-may-be-blame-earthquake-destruction']",E,0.4365,['US']
+161076,2016-08-26-006038,"and in L’Aquila, houses still need to be reconstructed and some buildings haven't received anti-seismic certificates.",None,,2016-08-26 19:14:20,2,"['http://feeds.cbsnews.com/~r/CBSNewsMain/~3/XzT88P_Jw6w/'
+ 'http://www.cbsnews.com/news/italy-earthquake-task-of-rebuilding-towns-a-daunting-challenge/']",E,0.5143,['US']
+89301,2016-08-24-112249,"The wound caused by the L'Aquila earthquake is still fresh, and we fear being forgotten,",None,,2016-08-24 02:28:07,43,"['http://koat.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://4029tv.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://kcci.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://ketv.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://koco.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://wapt.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://wdsu.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://wisn.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://www.kmbc.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://wbaltv.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://wcvb.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://wgal.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://wlky.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://wlwt.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://wmtw.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://wmur.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://wptz.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://wtae.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://www.wesh.com/national-news/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://wxii12.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://wyff4.com/national/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://keyt.com/news/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://kionrightnow.com/news/nation-world/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://ktvz.com/news/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://kxly.com/news/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://krdo.com/news/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://abc17news.com/national-news/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://channel3000.com/news/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://news8000.com/news/eerily-similar-earthquake-hit-italy-in-2009/41354492'
+ 'http://transcripts.cnn.com/2016/08/24/europe/italy-2009-earthquake/index.html'
+ 'http://ktvq.com/story/32833975/eerily-similar-earthquake-hit-italian-region-in-2009'
+ 'http://kxlf.com/story/32833975/eerily-similar-earthquake-hit-italian-region-in-2009'
+ 'http://kpax.com/story/32833975/eerily-similar-earthquake-hit-italian-region-in-2009'
+ 'http://kbzk.com/story/32833975/eerily-similar-earthquake-hit-italian-region-in-2009'
+ 'http://kxnet.com/news/eerily-similar-earthquake-hit-italy-in-2009'
+ 'http://yourerie.com/news/eerily-similar-earthquake-hit-italy-in-2009'
+ 'http://click2houston.com/news/eerily-similar-earthquake-hit-italian-region-in-2009'
+ 'http://clickondetroit.com/news/eerily-similar-earthquake-hit-italian-region-in-2009'
+ 'http://m.clickondetroit.com/news/eerily-similar-earthquake-hit-italian-region-in-2009'
+ 'http://www.news4jax.com/news/eerily-similar-earthquake-hit-italian-region-in-2009'
+ 'http://ktxs.com/news/eerily-similar-earthquake-hit-italian-region-in-2009/57213282'
+ 'http://wcti12.com/news/eerily-similar-earthquake-hit-italian-region-in-2009/57213437'
+ 'http://krcrtv.com/news/eerily-similar-earthquake-hit-italian-region-in-2009/57213647']",E,0.905,['US']
+55045,2016-08-25-126163,"We are close to the number of victims of the L’Aquila earthquake,",Fabrizio Curcio,Q21587592,2016-08-25 17:02:38,1,['http://www.canindia.com/italy-quake-toll-could-exceed-2009-figure-warns-official/#respond'],E,0.9404,['IN']
+164350,2016-08-31-002359,"A lot of people died and there's nothing there that they have, they have to relocate, families and friends are housing these people and it's really hard. I felt very bad because L'Aquila is close to a town where my Aunt lives. She heard the tremors from there, so I wanted to do something to help them out. Every little bit helps,",None,,2016-08-31 03:12:59,1,['http://wboc.com/story/32930330/vinnys-la-roma-restaurant-and-market-street-inn-raise-money-for-earthquake-victims'],E,0.8273,['US']
+195371,2016-08-24-091838,"Shaking in areas with steep slopes can lead to landslides which can be just as damaging as the direct shaking of buildings. This was the case in the L'Aquila earthquake in 2009, and more recently in the 2015 Nepal earthquake.",Jennifer Weston,Q57011246,2016-08-24 12:47:59,1,['http://www.ibtimes.co.uk/why-does-italy-suffer-more-earthquakes-rest-europe-1577801'],E,0.8572,['UK']
+134654,2016-08-24-093331,"Significant historical events include the 1908 magnitude 7.1 Messina earthquake, which is considered to be one of the most powerful natural disasters to have taken place in Europe, the 1976 magnitude 6.4 Friuli earthquake, the 1980 magnitude 6.9 Irpinia earthquake, and the 2009 magnitude 6.3 L'Aquila earthquake.",Carmine Galasso,Q58348623,2016-08-24 12:47:59,1,['http://www.ibtimes.co.uk/why-does-italy-suffer-more-earthquakes-rest-europe-1577801'],E,0.4772,['UK']
+140176,2016-08-24-065924,It's a disaster. We are trying to evacuate the village and move them to a sports field. I've just arrived and I feel like crying. I've never seen such an apocalyptic scene except for the L'Aquila earthquake on television.,None,,2016-08-24 05:46:09,18,"['https://www.thesun.co.uk/news/1663363/at-least-six-killed-after-6-2-magnitude-earthquake-flattens-buildings-as-people-slept-and-mayor-says-my-town-isnt-here-anymore/'
+ 'http://www.byronnews.com.au/news/italy-quake-120-dead-while-survivors-pulled-safety/3081673/'
+ 'http://www.gympietimes.com.au/news/italy-quake-120-dead-while-survivors-pulled-safety/3081673/'
+ 'http://www.tweeddailynews.com.au/news/italy-quake-120-dead-while-survivors-pulled-safety/3081673/'
+ 'http://www.whitsundaytimes.com.au/news/italy-quake-120-dead-while-survivors-pulled-safety/3081673/'
+ 'http://thereporter.com.au/news/italy-quake-120-dead-while-survivors-pulled-safety/3081673/'
+ 'http://ballinaadvocate.com.au/news/italy-quake-120-dead-while-survivors-pulled-safety/3081673/'
+ 'http://northernstar.com.au/news/italy-quake-120-dead-while-survivors-pulled-safety/3081673/'
+ 'http://www.centraltelegraph.com.au/news/italy-quake-120-dead-while-survivors-pulled-safety/3081673/'
+ 'http://www.chinchillanews.com.au/news/italy-quake-120-dead-while-survivors-pulled-safety/3081673/'
+ 'http://caboolturenews.com.au/news/italy-quake-120-dead-while-survivors-pulled-safety/3081673/'
+ 'http://www.noosanews.com.au/news/italy-quake-120-dead-while-survivors-pulled-safety/3081673/'
+ 'http://www.cqnews.com.au/news/italy-quake-120-dead-while-survivors-pulled-safety/3081673/'
+ 'http://www.coolum-news.com.au/news/italy-quake-120-dead-while-survivors-pulled-safety/3081673/'
+ 'http://www.southburnetttimes.com.au/news/italy-quake-120-dead-while-survivors-pulled-safety/3081673/'
+ 'http://www.ipswichadvertiser.com.au/news/italy-quake-120-dead-while-survivors-pulled-safety/3081673/'
+ 'http://www.thesatellite.com.au/news/italy-quake-120-dead-while-survivors-pulled-safety/3081673/'
+ 'http://www.msn.com/en-in/news/world/earthquake-in-italy-rescue-efforts-continue-through-the-night-as-death-toll-rises-to-159-including-many-children/ar-BBw1V4Q?srcref=rss']",E,0.5045,['US' 'AS' 'UK']
+182033,2016-08-24-126859,"Unlike the L'Aquila quake, which was preceded by swarms of smaller quakes and led to claims-unjustified in my view - that the eventual big quake should have been predicted, this one appears to have struck out of the blue.",David Rothery,Q44267485,2016-08-24 18:09:59,21,"['http://www.channelnewsasia.com/news/world/at-least-120-killed-in/3071438.html?cid=cna_flip_070214'
+ 'http://straitstimes.com/world/europe/italy-rushes-to-aid-survivors-after-quake-levels-towns'
+ 'http://www.channelnewsasia.com/news/world/at-least-159-killed-in/3071438.html'
+ 'http://www.channelnewsasia.com/news/world/italy-quake-kills-159-as/3071438.html'
+ 'http://nation.com.pk/international/25-Aug-2016/120-dead-as-pre-dawn-quake-hits-italy'
+ 'http://nation.com.pk/national/25-Aug-2016/120-dead-as-pre-dawn-quake-hits-italy'
+ 'http://businesstimes.com.sg/government-economy/italy-quake-kills-159-as-rescuers-race-to-find-survivors'
+ 'http://news.asiaone.com/news/world/italy-quake-kills-159-rescuers-race-find-survivors'
+ 'http://news.asiaone.com/news/world/italy-quake-toll-hits-247-rescuers-hunt-survivors'
+ 'http://news.asiaone.com/news/world/italy-quake-death-toll-nears-250-questions-mount'
+ 'http://news.asiaone.com/news/world/least-8-foreigners-among-dead-italy-quake-say-officials-grim-search-corpses-continues'
+ 'http://news.asiaone.com/news/world/italy-quake-death-toll-hits-284-day-mass-funeral'
+ 'http://news.asiaone.com/news/world/italy-weeps-earthquake-dead'
+ 'http://news.asiaone.com/news/world/shoddy-home-renovations-may-have-contributed-italy-quake-toll'
+ 'http://news.asiaone.com/news/world/golden-retriever-miracle-survivor-italy-quake']",E,0.9376,['SN' 'US' 'PK']
+187465,2016-08-25-124104,"Unlike the L’Aquila quake, which was preceded by swarms of smaller quakes and led to claims-unjustified in my view - that the eventual big quake should have been predicted, this one appears to have struck out of the blue.",David Rothery,Q44267485,2016-08-25 05:15:13,1,['http://scmp.com/news/world/europe/article/2008851/italy-earthquake-death-toll-soars-247-rescuers-race-find-survivors'],E,0.9522,['CH']
+43374,2017-03-07-078710,"That was at a benefit for the Abruzzo Earthquake Fund for victims of the L’Aquila, Italy disaster. Lightfoot attended and sang a song, signed autographs, and most importantly, did not forget about the sculpture",None,,2017-03-07 12:15:40,1,['http://ajournalofmusicalthings.com/gordon-lightfoot-bust-installed-orillia/'],E,0.3846,['CA']
+29165,2018-10-23-102325,"The L’Aquila quake showed just how challenging it is to communicate uncertainty,",Stephen Hicks,Multiple,2018-10-23 00:00:00,3,"['https://www.scientificamerican.com/article/a-string-of-italian-earthquakes-hints-at-forecasts-for-one-type-of-quake/'
+ 'http://infosurhoy.com/cocoon/saii/xhtml/en_GB/top-stories/a-string-of-italian-earthquakes-hints-at-forecasts-for-one-type-of-quake/'
+ 'http://infosurhoy.com/cocoon/saii/xhtml/en_GB/health/a-string-of-italian-earthquakes-hints-at-forecasts-for-one-kind-of-quake/']",E,0.9053,['US']
+34545,2018-07-27-082447,"The earthquake lights (EQL) of the 6 April 2009 Aquila earthquake, in Central Italy",None,,2018-07-27 22:05:19,2,"['http://www.ancient-origins.net/comment/reply/10455#comment-form'
+ 'http://www.ancient-origins.net/unexplained-phenomena/serapeum-sarcophagi-021992']",E,0.8825,['US']
+49040,2019-04-06-042151,"Ten years have passed since the earthquake in L’Aquila and we still have the duty of memory: many have lost loved ones, many continue to suffer,",Giuseppe Conte,Multiple,2019-04-06 03:18:04,2,"['http://www.breitbart.com/news/italy-remembers-laquila-dead-10-years-after-quake/'
+ 'https://www.malaymail.com/news/world/2019/04/06/italy-remembers-laquila-dead-10-years-after-quake/1740513']",E,0.9341,['US']
+184107,2019-04-06-042152,"Ten years have passed since the earthquake in L'Aquila and we still have the duty of memory: many have lost loved ones, many continue to suffer,",Giuseppe Conte,Multiple,2019-04-06 10:10:12,3,"['http://www.digitaljournal.com/news/world/italy-remembers-l-aquila-dead-10-years-after-quake/article/547013'
+ 'https://www.pulse.com.gh/news/world/italy-remembers-laquila-dead-10-years-after-quake/0mnqk5d'
+ 'https://www.pulse.ng/news/world/italy-remembers-laquila-dead-10-years-after-quake/088s2hf']",E,0.9308,['US' 'GH' 'NI']
+132594,2019-04-06-010619,"For the Italian Red Cross, the earthquake in L'Aquila marked an organisational, historical and human turning point that marked us deeply.",Francesco Rocca,Multiple,2019-04-06 10:10:12,3,"['http://www.digitaljournal.com/news/world/italy-remembers-l-aquila-dead-10-years-after-quake/article/547013'
+ 'https://www.pulse.com.gh/news/world/italy-remembers-laquila-dead-10-years-after-quake/0mnqk5d'
+ 'https://www.pulse.ng/news/world/italy-remembers-laquila-dead-10-years-after-quake/088s2hf']",E,0.8399,['US' 'NI' 'GH']
+169234,2019-04-06-010618,"For the Italian Red Cross, the earthquake in L’Aquila marked an organisational, historical and human turning point that marked us deeply.",Francesco Rocca,Multiple,2019-04-06 03:18:04,2,"['http://www.breitbart.com/news/italy-remembers-laquila-dead-10-years-after-quake/'
+ 'https://www.malaymail.com/news/world/2019/04/06/italy-remembers-laquila-dead-10-years-after-quake/1740513']",E,0.8139,['US']
+201327,2020-01-15-103294,We imagine a building that is located close to the epicentre of the earthquake. We are able to intercept the tremor and thanks to 5g technology we can then send an alert to L’Aquila - 8 seconds earlier than the actual arrival of the seismic wave,Fabio Graziosi,Q57414148,2020-01-15 11:28:31,1,['http://euronews.com/2020/01/15/italy-l-aquila-5g-technology-used-to-monitor-earthquakes'],E,0.8766,['US']
+98222,2020-04-02-069142,"Those who politicize our readiness to provide assistance to people in the Apennines, don't know history very well. They should be reminded about Russian sailors who landed in Sicily in 1908 after the devastating earthquake there (NATO or EU did not exist back then) and about Russia's rescue and restoration mission in Aquila after the 2009 tragedy,",Anatoly Antonov,Multiple,2020-04-02 03:24:42,1,['https://tass.com/world/1138993'],E,0.6644,
+101339,2020-01-15-102998,"We have to imagine 5G as the future mainly in terms of services it can provide and its daily use. From this point of view L’Aquila needs to offer powerful solutions when faced with new requirements that come as a consequence of the earthquake. And by doing so it can offer a protocol that can be replicated,",Pierluigi Biondi,Q30881085,2020-01-15 11:28:31,1,['http://euronews.com/2020/01/15/italy-l-aquila-5g-technology-used-to-monitor-earthquakes'],E,0.8011,['US']

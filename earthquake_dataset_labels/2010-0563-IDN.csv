@@ -1,0 +1,34 @@
+,quoteID,quotation,speaker,qids,date,numOccurrences,urls,phase,speaker_prob,url_countries
+80695,2008-12-11-062835,we can expect one or more very large west sumatran earthquakes as the rest of the mentawai patch fails within the next few decades.,kerry sieh,Q6394661,2008-12-11 19:57:44,6,"['http://livemint.com/2008/12/11235233/Are-more-tsunamis-in-the-offin.html'
+ 'http://newsinfo.inquirer.net/breakingnews/world/view/20081212-177663/Major-Sumatran-quake-tsunami-likely'
+ 'http://us.rd.yahoo.com/dailynews/rss/asia/*http://news.yahoo.com/s/afp/20081212/wl_asia_afp/asiaquaketsunamiindonesiasingapore'
+ 'http://us.rd.yahoo.com/dailynews/rss/science/*http://news.yahoo.com/s/afp/20081212/sc_afp/asiaquaketsunamiindonesiasingapore'
+ 'http://channelnewsasia.com/stories/afp_asiapacific/view/395993/1/.html'
+ 'http://news24.com/News24/Technology/News/0,,2-13-1443_2441369,00.html']",A,0.5339,['SF' 'RP' 'US' 'IN']
+64374,2008-12-12-065237,"what we've been able to show is that the mentawai patch is not just one earthquake-failing, it's a sequence.",kerry sieh,Q6394661,2008-12-12 02:39:12,1,['http://newshopper.sulekha.com/newsitem/2008/12/ancient-indian-ocean-coral-points-to-another-disastrous.htm'],A,0.5278,
+12849,2010-01-17-050136,the threat of a great tsunamigenic earthquake with a magnitude of more than 8.5 on the mentawai patch is unabated. (...) there is potential for loss of life on the scale of the 2004 indian ocean tsunami.,john mccloskey,Q21286434,2010-01-17 07:37:38,5,"['http://channelnewsasia.com/stories/afp_asiapacific/view/1031275/1/.html'
+ 'http://au.rd.yahoo.com/news/rss/world/*http://au.news.yahoo.com/a/-/world/6687804/tsunami-possible-off-indonesia-experts/'
+ 'http://thestandard.com.hk/news_detail.asp?pp_cat=17&art_id=93211&sid=26734786&con_type=1&d_str=20100118'
+ 'http://cosmosmagazine.com/news/3239/another-indonesian-earthquake-set-strike'
+ 'http://janamejayan.wordpress.com/2010/02/08/tsunami-generating-quake-possible-off-indonesia-scientists/']",A,0.5147,['HK' 'US' 'AS']
+200076,2010-10-27-098332,"these earthquakes involve slippage of the indian ocean crust beneath sumatra and also the mentawai islands, which owe their existence to the deformation and uplift of the overriding plate above the subduction zone. the 25 october 2010 earthquake ruptured a small section of this subduction zone at a depth of around 20 km beneath the pagai islands at the southern end of the mentawai islands group.",simon day,Q2859876,2010-10-27 14:06:45,1,['http://claimsjournal.com/news/international/2010/10/27/114389.htm'],C,0.5485,['US']
+138175,2010-11-14-046631,"the barrenjoey crew has now donated their time and skills to help surfaid in four major disasters - the boxing day tsunami in december 2004, the march 2005 nias earthquake; the 2007 mentawai earthquakes; and now this disaster. it's an extraordinary and humbling contribution,",john stewart,Multiple,2010-11-14 22:45:00,1,['http://scoop.co.nz/stories/WO1011/S00217/surfaid-first-phase-of-emergency-response.htm'],C,0.7102,['NZ']
+24026,2010-10-27-063551,magnitude 7.7 mentawai islands earthquake of 25 october 2010 was a miniature version of the giant subduction zone thrust earthquakes that have struck in the past along the plate boundary between the indo-australian plate (which includes the seafloor below the indian ocean) and the eurasian plate (which includes the island of sumatra).,simon day,Q2859876,2010-10-27 14:06:45,1,['http://claimsjournal.com/news/international/2010/10/27/114389.htm'],C,0.5864,['US']
+32000,2012-09-14-076504,"there are no reports of damage so far. the quake happened in the sea close to mentawai island, but no tsunami warning has been issued,",y?ksel aytu ?,Q6028231,2012-09-14 06:40:37,2,"['http://dunyanews.tv/index.php?key=Q2F0SUQ9MyNOaWQ9MTAxNDEx'
+ 'http://hurriyetdailynews.com/63-quake-hits-off-indonesias-sumatra-usgs.aspx?pageID=238&nid=30115&NewsCatID=359']",C,0.5639,['TU' 'PK']
+228495,2012-04-12-026027,"i am very confident that we are very likely to have within the next few decades to have this great mentawai earthquake that will have a magnitude at least as big as yesterday's,",kerry sieh,Q6394661,2012-04-12 12:15:00,13,"['http://feeds.reuters.com/~r/Reuters/worldNews/~3/Wje0fY8ZyIc/us-asia-quake-risks-idUSBRE83C00D20120413'
+ 'http://in.reuters.com/article/2012/04/12/asia-quake-risks-idINDEE83B0KX20120412?feedType=RSS&feedName=topNews'
+ 'http://my.news.yahoo.com/indonesia-quake-record-risks-aceh-grow-233356139.html'
+ 'http://au.news.yahoo.com/a/-/world/13411007/indonesia-quake-a-record-risks-for-aceh-grow/'
+ 'http://publicbroadcasting.net/wuky/news.newsmain/article/0/0/1920557/World/Indonesia.quake.a.record..risks.for.Aceh.grow'
+ 'http://publicbroadcasting.net/wkyu/news.newsmain/article/0/0/1920557/World/Indonesia.quake.a.record..risks.for.Aceh.grow'
+ 'http://publicbroadcasting.net/wabe/news.newsmain/article/0/0/1920557/World/Indonesia.quake.a.record..risks.for.Aceh.grow'
+ 'http://uk.reuters.com/article/2012/04/13/uk-asia-quake-risks-idUKBRE83C01B20120413?feedType=RSS&feedName=worldNews'
+ 'http://uk.news.yahoo.com/indonesia-quake-record-risks-aceh-grow-003425024.html'
+ 'http://kgmi.com/Indonesia-quake-a-record-risks-for-Aceh-grow/11461924?newsId=137234'
+ 'http://deccanchronicle.com/channels/world/asia/indonesia-quake-record-risks-aceh-grow-987'
+ 'http://allnews.rss.themalaysianinsider.com/c/33362/f/567634/s/1e57b49f/l/0L0Sthemalaysianinsider0N0Cworld0Carticle0Cindonesia0Equake0Ea0Erecord0Erisks0Efor0Eaceh0Egrow0C/story01.htm'
+ 'http://trust.org/alertnet/news/interview-indonesia-quake-a-record-risks-for-aceh-grow']",C,0.5686,['IN' 'US' 'MY']
+133113,2012-03-16-088959,we know this area has the potential for a magnitude 8 or 9 earthquake. it would cause a tsunami and would hit these coastlines very hard. it would hit the mentawai islands and it would hit padang.,emma hill,Q23819582,2012-03-16 21:00:00,1,['http://todayonline.com/Science/EDC120317-0000001/Getting-ready-for-the-next-tsunami'],C,0.5074,['CH']
+115544,2018-10-09-115001,"We call this part of it the Mentawai Gap -- it's a gap because it's a place where an earthquake hasn't happened yet,",Kerry Sieh,Q6394661,2018-10-09 23:33:49,1,['http://www.scmp.com/week-asia/society/article/2167576/expect-more-disasters-palu-singapore-geologist-says-giant-quakes'],E,0.7308,['CH']
+169050,2019-02-03-031994,"Mentawai is located in an active earthquake zone that has not experienced significant earthquakes in a long time,",None,,2019-02-03 09:48:14,1,['https://www.thejakartapost.com/news/2019/02/03/haunted-by-past-mentawai-islands-residents-play-it-safe-flee-from-homes-after-earthquakes-hit.html'],E,0.816,['ID']
