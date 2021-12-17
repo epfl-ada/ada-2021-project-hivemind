@@ -14,6 +14,7 @@
             <li><a href="#additional-datasets-disasters">Disasters</a></li>
             <li><a href="#additional-datasets-wdi">World development indicators</a></li>
             <li><a href="#additional-datasets-gdelt">GDELT geographic lookup of domains</a></li>
+            <li><a href="#additional-datasets-twitter">Twitter Disaster Dataset</a></li>
         </ul>  
     </li>
     <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
@@ -27,7 +28,7 @@
 <!-- ABSTRACT -->
 <h2 id="abstract"> :pencil: Abstract</h2>
 
-Every year, natural disasters happen and often take many lives. After such events, the pages of newspapers are full of quotes from people expressing regret for the unfortunate event. These events often remain in people's memory for a lifetime. What influences how long these events will be talked about? In this research project, our goal is to explore how much is said about the biggest earthquakes after they have occurred and what factors influence this. We will look for answers in the [Quotebank](https://github.com/epfl-dlab/Quotebank) 2008-2020 quotes on disasters taken from the [international disasters database](https://public.emdat.be/data) combined with world development indicators from the [World Data Bank](https://databank.worldbank.org/source/world-development-indicators). To simplify disaster quote detection, we will further look into classifying the quotes by whether they talk about a disaster or not.
+Every year, natural disasters happen and often take many lives. After such events, the pages of newspapers are full of quotes from people expressing regret for the unfortunate event. These events often remain in people's memory for a lifetime. What influences how long these events will be talked about? In this research project, our goal is to detect whether a quote is about these tragedic events. As a result of this, we explore how much is said about the biggest earthquakes after they have occurred and what factors influence this. We will look for answers in the [Quotebank](https://github.com/epfl-dlab/Quotebank) 2008-2020 quotes. 
 
 
 <h2 id="research-questions"> :electron: Research questions</h2>
@@ -49,9 +50,11 @@ Second, what factors influence how long a earthquake will be talked about in Quo
 <!-- ADDITIONAL DATASETS -->
 <h2 id="additional-datasets"> :floppy_disk: Additional datasets</h2>
 
-Besides loading and doing exploratory data analysis on [Quotebank](https://github.com/epfl-dlab/Quotebank) in [`quotes_eda.ipynb`](quotes_eda.ipynb), we used two additional datasets:
+
+Besides loading and doing exploratory data analysis on [Quotebank](https://github.com/epfl-dlab/Quotebank) in [`quotes_eda.ipynb`](quotes_eda.ipynb), we used additional datasets. 
+<!-- 
 - [The international disasters database](https://public.emdat.be/data), loaded and analysed in [`disasters_eda.ipynb`](disasters_eda.ipynb)
-- [World Data Bank](https://databank.worldbank.org/source/world-development-indicators), loaded and analysed in [`wdi_eda.ipynb`](wdi_eda.ipynb)
+- [World Data Bank](https://databank.worldbank.org/source/world-development-indicators), loaded and analysed in [`wdi_eda.ipynb`](wdi_eda.ipynb) -->
 
 <!-- Besides these datasets, we use [GDELT Geographic Lookup of Domains](https://blog.gdeltproject.org/mapping-the-media-a-geographic-lookup-of-gdelts-sources/) and might use public disaster tweets datasets like the one in [this kaggle challenge](https://www.kaggle.com/c/nlp-getting-started/overview) to use them for disaster quotes classification, if the models prove to be of desired success. -->
 
@@ -89,6 +92,12 @@ In the [`wdi_eda.ipynb`](wdi_eda.ipynb) notebook, we have loaded, pre-processed 
 Data source: https://blog.gdeltproject.org/mapping-the-media-a-geographic-lookup-of-gdelts-sources/
 
 The geographical location of newspapers could affect the citations contained in them. Although the quotes in the Quotebank dataset contain links to the article in which they were found, we cannot find out the true geographical location of the news source from the link itself. E.g. theguardian.com and nytimes.com both use .com top-level domain, but they are reporting events in different countries. That's why we decided to choose a GDELT dataset that associates a particular domain with the right country from which that news source comes. This dataset was created from the enormous GDELT dataset and used the fact that news outlets cover events physically proximate to them far more often than they do events on the other side of the world.
+
+<h3 id="additional-datasets-twitter"> 4. Twitter Disaster Dataset</h2>
+
+Data source: https://www.kaggle.com/c/nlp-getting-started
+
+In this dataset we have a collection of tweets about natural disasters and random topics from Twitter users. The tweets are labeled whether they are about a natural disaster or not. We are asked to classify whether the tweets are about natural disasters or not using NLP models.
 
 <!-- :paw_prints:-->
 <!-- FOLDER STRUCTURE -->
@@ -137,7 +146,7 @@ To handle the large Quotebank dataset, we have set up a pipeline using Dask, a f
 
 <!-- <h3> Answering the research questions </h3> -->
 
-In tackling the research questions, the crucial component was to classify whether a specific quote is talking about a disasters or a specific event. The method we proposed to find whether a quote is about a certain disaster is to do simple text searching to match the expected words. These words might include some details about the place where the disaster happened. <!--Depending on the scalability of the method, we would perform the analysis on a subset of the disasters. Assuming that a number of disasters happen in places that usually do not receive much media attention (like Fukushima in world news), we could for example select these disasters and then search for quotes that mention these places, hoping for a good precision.-->
+In tackling the research questions, the crucial component was to classify whether a specific quote is talking about a disasters or a specific events. The method we proposed to find whether a quote is about a certain disaster is to do simple text searching to match the expected words. These words might include some details about the place where the disaster happened. <!--Depending on the scalability of the method, we would perform the analysis on a subset of the disasters. Assuming that a number of disasters happen in places that usually do not receive much media attention (like Fukushima in world news), we could for example select these disasters and then search for quotes that mention these places, hoping for a good precision.-->
 
 <!--To evaluate the precision of the proposed methods, we hand-labeled whether a sample of, for example, 100 quotes that were detected by the method are true positives or false positives.-->
 
