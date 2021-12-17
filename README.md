@@ -111,6 +111,12 @@ The geographical location of newspapers could affect the citations contained in 
     ├── quotes_eda.ipynb
     ├── wdi_eda.ipynb  
     └── disasters_eda.ipynb    
+    
+Detailed description: 
+- [`quotes_eda.ipynb`](quotes_eda.ipynb): this includes exploratory data analysis on the quotebank
+- [`wdi_eda.ipynb`](wdi_eda.ipynb): this notebook is used to examine the Word Development Indicators dataset
+- [`disasters_eda.ipynb`](disasters_eda.ipynb): this is also for examination of the additional dataset, this time the Disaster dataset is in the focus
+- [`media_influencing_factors.ipynb`](media_influencing_factors.ipynb): this notebook is for putting all things together, merging our dataset and analysing the connections.
  
 <!-- METHODS -->
 <h2 id="methods"> :mag: Methods</h2>
