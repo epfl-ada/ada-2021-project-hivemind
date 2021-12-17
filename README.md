@@ -35,9 +35,12 @@ Every year, natural disasters happen and often take many lives. After such event
 
 We proposed to explore two questions in this research project.
 
-First, how correctly will NLP models trained on disaster tweets like in [this kaggle challenge](https://www.kaggle.com/c/nlp-getting-started/overview) generalize to classifying disaster quotes in Quotebank? This question is important in respect of robustness of models and raise the problem of training new models for different type of texts. 
+First, how correctly will NLP models trained on disaster tweets like in [this kaggle challenge](https://www.kaggle.com/c/nlp-getting-started/overview) generalize to classifying disaster quotes in Quotebank? This question is important in respect of robustness analysis of models and their transfer learning capabilities.
 
-Second, what factors influence how long a earthquake will be talked about in Quotebank quotes from 2008 to 2020? The interesting factors can include total deaths, total damage in dollars, country of disaster, wealth indicators of the country, etc. So, we analyse this question from the point of the disaster specific traits of the event, and from the location of the event.
+Second, what factors influence how long a earthquake will be talked about in Quotebank quotes from 2008 to 2020? The interesting factors include total deaths, total damage in dollars, country of disaster, wealth indicators of the country, etc. 
+<!-- So, we analyse this question from the point of the disaster specific traits of the event, and from the location of the event. -->
+
+<!-- There are various other research question related to this that are interesting and worth further research, like "what is the sentiment towards different disasters and why" and "how does the country of the speaker affect which disasters he is talking about". -->
 
 ## You can find the description of main results on our website: [adahivemind.github.io](https://adahivemind.github.io/).
 
