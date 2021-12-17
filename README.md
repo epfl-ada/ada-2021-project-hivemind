@@ -19,46 +19,37 @@
     <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
     <li><a href="#timeline"> ➤ Proposed timeline</a></li>
     <li><a href="#organization"> ➤ Organization within the team</a></li>
-    <li><a href="#questions-for-tas"> ➤ Questions for TAs</a></li>
+    <!--<li><a href="#questions-for-tas"> ➤ Questions for TAs</a></li>-->
   </ol>
 </details>
 
 <!-- ABSTRACT -->
 <h2 id="abstract"> :pencil: Abstract</h2>
 
-<!-- TODO: A 150 word description of the project idea and goals. What’s the motivation behind your project? What story would you like to tell, and why? -->
-
-Every year, natural disasters happen and often take many lives. After such events, the pages of newspapers are full of quotes from people expressing regret for the unfortunate event. These events often remain in people's memory for a lifetime. What influences how long these events will be talked about years later? In this research project, our goal is to explore how much is said about the biggest disasters (such as earthquakes, storms, floods) years after they have occurred and what factors influence this. We will look for answers in the [Quotebank](https://github.com/epfl-dlab/Quotebank) 2008-2020 quotes on disasters taken from the [international disasters database](https://public.emdat.be/data) combined with world development indicators from the [World Data Bank](https://databank.worldbank.org/source/world-development-indicators). To simplify disaster quote detection, we will further look into classifying the quotes by whether they talk about a disaster or not.
+Every year, natural disasters happen and often take many lives. After such events, the pages of newspapers are full of quotes from people expressing regret for the unfortunate event. These events often remain in people's memory for a lifetime. What influences how long these events will be talked about? In this research project, our goal is to explore how much is said about the biggest earthquakes after they have occurred and what factors influence this. We will look for answers in the [Quotebank](https://github.com/epfl-dlab/Quotebank) 2008-2020 quotes on disasters taken from the [international disasters database](https://public.emdat.be/data) combined with world development indicators from the [World Data Bank](https://databank.worldbank.org/source/world-development-indicators). To simplify disaster quote detection, we will further look into classifying the quotes by whether they talk about a disaster or not.
 
 
 <h2 id="research-questions"> :electron: Research questions</h2>
 <!-- Research Questions: A list of research questions you would like to address during the project. -->
 
-We propose to explore two questions in this research project.
+We proposed to explore two questions in this research project.
 
-First, how correctly will NLP models trained on disaster tweets like in [this kaggle challenge](https://www.kaggle.com/c/nlp-getting-started/overview) generalize to classifying disaster quotes in Quotebank? 
+First, how correctly will NLP models trained on disaster tweets like in [this kaggle challenge](https://www.kaggle.com/c/nlp-getting-started/overview) generalize to classifying disaster quotes in Quotebank? This question is important in respect of robustness of models and raise the problem of training new models for different type of texts. 
 
-Second, what factors influence how long a natural disaster will be talked about in Quotebank quotes from 2008 to 2020? The interesting factors include total deaths, total damage in dollars, country of disaster, wealth indicators of the country, etc.
+Second, what factors influence how long a earthquake will be talked about in Quotebank quotes from 2008 to 2020? The interesting factors can include total deaths, total damage in dollars, country of disaster, wealth indicators of the country, etc. So, we analyse this question from the point of the disaster specific traits of the event, and from the location of the event.
+
+## You can find the description of main results on our website: [adahivemind.github.io](https://adahivemind.github.io/).
 
 <!-- Given that a comprehensive analysis of these research questions might be challenging, we discard other related and interesting questions like "what is the sentiment towards different disasters and why" and "how does the country of the speaker affect which disasters he is talking about". -->
 
 <!-- ADDITIONAL DATASETS -->
 <h2 id="additional-datasets"> :floppy_disk: Additional datasets</h2>
 
-<!-- TODO: List the additional dataset(s) you want to use (if any), and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you’ve read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible. -->
-
-Besides loading and doing exploratory data analysis on [Quotebank](https://github.com/epfl-dlab/Quotebank) in [`quotes_eda.ipynb`](quotes_eda.ipynb), we will use two additional datasets:
+Besides loading and doing exploratory data analysis on [Quotebank](https://github.com/epfl-dlab/Quotebank) in [`quotes_eda.ipynb`](quotes_eda.ipynb), we used two additional datasets:
 - [The international disasters database](https://public.emdat.be/data), loaded and analysed in [`disasters_eda.ipynb`](disasters_eda.ipynb)
 - [World Data Bank](https://databank.worldbank.org/source/world-development-indicators), loaded and analysed in [`wdi_eda.ipynb`](wdi_eda.ipynb)
 
 <!-- Besides these datasets, we use [GDELT Geographic Lookup of Domains](https://blog.gdeltproject.org/mapping-the-media-a-geographic-lookup-of-gdelts-sources/) and might use public disaster tweets datasets like the one in [this kaggle challenge](https://www.kaggle.com/c/nlp-getting-started/overview) to use them for disaster quotes classification, if the models prove to be of desired success. -->
-
-<!-- ADDITIONAL DATASETS SPEAKER ATTRIBUTES -->
-<!-- <h3 id="additional-datasets-speaker-attributes">   Speaker attributes</h3>
-
-This dataset helps us to find a connection between the speaker and the quotation when it is about a disaster. We can observe if the speaker is from the same country as the place of the disaster, or she/he is a scientist, expert talking about the event.
-
-Data source: Wikidata -->
 
 <!-- ADDITIONAL DATASETS DISASTERS -->
 <h3 id="additional-datasets-disasters"> 1. Disasters</h2>
@@ -146,7 +137,7 @@ We would also like to investigate how the models trained on disaster tweets data
 <h2 id="timeline"> :calendar: Proposed timeline</h2>
 
 
-Nov 26 (HW2 Deadline): Quote - disaster matching with simple text search and manual labeling of quotes
+<!--Nov 26 (HW2 Deadline): Quote - disaster matching with simple text search and manual labeling of quotes
 
 Dec 3: Disaster classification using pre-trained NLP models (an attempt at NLP transfer learning) and exploration of media influencing factors (total deaths, total damage in dollars, country of disaster etc.)
 
@@ -154,23 +145,23 @@ Dec 10:  Evaluation and visualization of the outcomes, implementation of potenti
 
 Dec 15: Preparation of the data storyline and the website
 
-Dec 17: Proofreading, minor adjustments and submission (Everyone)
+Dec 17: Proofreading, minor adjustments and submission (Everyone)-->
 
 
 <!-- PROPOSED TIMELINE -->
 <h2 id="organization"> :dart: Organization within the team</h2>
 
 Batuhan - 
-Quote-disaster matching, NLP model training, preparation and deployment of the website
+NLP model training, preparation and deployment of the website
 
 Frano -
-Labeling of the quotes, outlining and enriching the data storyline
+NLP model training, labeling of the quotes, outlining and enriching the data storyline
 
 Hilda -
-Exploration of media influencing factors, valuation and visualization of the outcomes. 
+Exploration of media influencing factors, valuation and visualization of the outcomes, labeling the quotes. 
 
 Lovro -
-Labeling of the quotes, quote-disaster matching, NLP model training
+Labeling of the quotes, quote-disaster matching, valuation and visualization of the outcomes.
 
 <!-- QUESTIONS FOR TAs -->
 <!-- <h2 id="questions-for-tas"> :question: Questions for TAs (optional)</h2>
